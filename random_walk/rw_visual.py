@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+
 from random_walk import RandomWalk  # pyright: ignore
 
 # Keep making new walks, as long as the program is active
