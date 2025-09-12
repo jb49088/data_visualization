@@ -3,17 +3,36 @@
 
 This is a series of various data visualizations built with matplotlib
 
+<!-- CODE_STATISTICS_START -->
+
 ### Code Statistics
 
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                         1              9              0             21
+Python                           2             16             13             45
+Markdown                         1             12              4             15
+-------------------------------------------------------------------------------
+SUM:                             3             28             17             60
 -------------------------------------------------------------------------------
 ```
+<!-- CODE_STATISTICS_END -->
+
+<!-- PROJECT_STRUCTURE_START -->
 
 ### Project Structure
+
+```
+data_visualization
+├── random_walk
+│   ├── random_walk.py
+│   └── rw_visual.py
+└── README.md
+
+2 directories, 3 files
+```
+<!-- PROJECT_STRUCTURE_END -->
 
 #### random_walk
 
