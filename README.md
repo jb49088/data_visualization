@@ -12,9 +12,9 @@ This is a series of various data visualizations built with matplotlib
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 Python                           2             16             13             45
-Markdown                         1             12              4             15
+Markdown                         1             13              4             26
 -------------------------------------------------------------------------------
-SUM:                             3             28             17             60
+SUM:                             3             29             17             71
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -34,7 +34,7 @@ data_visualization
 ```
 <!-- PROJECT_STRUCTURE_END -->
 
-#### random_walk
+### random_walk
 
 A random walk is a path that’s determined by a series of simple decisions, each of which is left entirely to chance. Random walks have practical applications in nature, physics, biology, chemistry, and economics.
 
