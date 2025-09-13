@@ -11,10 +11,10 @@ This is a series of various data visualizations built with matplotlib
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Python                           4             25             18             58
-Markdown                         1             13              4             26
+Python                           5             32             25             86
+Markdown                         1             13              4             29
 -------------------------------------------------------------------------------
-SUM:                             5             38             22             84
+SUM:                             6             45             29            115
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -26,6 +26,7 @@ SUM:                             5             38             22             84
 ```
 data_visualization
 ├── dice_roller
+│   ├── dice_visual.py
 │   ├── die.py
 │   └── die_visual.py
 ├── random_walk
@@ -33,7 +34,7 @@ data_visualization
 │   └── rw_visual.py
 └── README.md
 
-3 directories, 5 files
+3 directories, 6 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
 
