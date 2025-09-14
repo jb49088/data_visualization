@@ -4,7 +4,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 
-path = Path("placeholder/weather_data/death_valley_2021_simple.csv")
+path = Path("placeholder/weather_data/death_valley_2021.csv")
 lines = path.read_text().splitlines()
 
 reader = csv.reader(lines)
@@ -15,8 +15,8 @@ dates, highs, lows = [], [], []
 for row in reader:
     date = datetime.strptime(row[2], "%Y-%m-%d")
     try:
-        high = int(row[3])
-        low = int(row[4])
+        high = int(row[6])
+        low = int(row[7])
     except ValueError:
         print(f"Missing data for {date}")
     else:
