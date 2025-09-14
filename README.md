@@ -12,10 +12,10 @@ This is a series of various data visualizations built with matplotlib
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 CSV                              2              0              0            732
-Python                          10             66             42            207
-Markdown                         1             27              4             52
+Python                           8             77             36            192
+Markdown                         1             27              4             54
 -------------------------------------------------------------------------------
-SUM:                            13             93             46            991
+SUM:                            11            104             40            978
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -31,20 +31,18 @@ data_visualization
 │   ├── dice_visual.py
 │   ├── die.py
 │   └── die_visual.py
-├── placeholder
-│   ├── death_valley_highs_lows.py
-│   ├── death_valley_precipitation.py
-│   ├── sitka_highs_lows.py
-│   ├── sitka_precipitation.py
-│   └── weather_data
-│       ├── death_valley_2021.csv
-│       └── sitka_2021.csv
 ├── random_walk
 │   ├── random_walk.py
 │   └── rw_visual.py
-└── README.md
+├── README.md
+└── weather
+    ├── data
+    │   ├── death_valley_2021.csv
+    │   └── sitka_2021.csv
+    ├── highs_lows.py
+    └── precipitation.py
 
-5 directories, 13 files
+5 directories, 11 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
 
