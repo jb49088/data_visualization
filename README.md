@@ -11,11 +11,12 @@ This is a series of various data visualizations built with matplotlib
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
+JSON                             1              0              0           6359
 CSV                              2              0              0            732
-Python                           8             77             36            192
-Markdown                         1             29              4             54
+Python                           9             83             39            218
+Markdown                         1             37              4             62
 -------------------------------------------------------------------------------
-SUM:                            11            106             40            978
+SUM:                            13            120             43           7371
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -31,6 +32,10 @@ data_visualization
 │   ├── dice_visual.py
 │   ├── die.py
 │   └── die_visual.py
+├── natural_disasters
+│   ├── data
+│   │   └── earthquakes.geojson
+│   └── eq_world_map.py
 ├── random_walk
 │   ├── random_walk.py
 │   └── rw_visual.py
@@ -42,7 +47,7 @@ data_visualization
     ├── highs_lows.py
     └── precipitation.py
 
-5 directories, 11 files
+7 directories, 13 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
 
