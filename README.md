@@ -108,3 +108,15 @@ The chart above shows daily precipitation levels for Sitka, Alaska in 2021. Sinc
 <img width="800" height="550" alt="death_valley_precipitation" src="https://github.com/user-attachments/assets/ccbeea90-58e7-433c-ba7a-8fd49f1eda65" />
 
 The chart above shows daily precipitation levels in Death Valley, CA during 2021. Most days recorded little to no rainfall, with only a few spikes throughout the year. Compared to Sitka, Death Valley’s precipitation is sparse and infrequent, highlighting its desert climate. This visualization was generated with `precipitation.py`.
+
+### natural_disasters
+
+Natural disaster visualizations show patterns of catastrophic events from real-world datasets. They make it easy to explore trends in earthquakes and volcanic eruptions, including their frequency, magnitude, and locations.
+
+<img width="1264" height="871" alt="newplot(2)" src="https://github.com/user-attachments/assets/5f3e2c85-0730-4190-ac6a-61a70b412abc" />
+
+The chart above shows global earthquake activity from March 5, 2022, to April 4, 2022. Most events were low to moderate in magnitude, with only a few larger quakes recorded during the month. This visualization highlights patterns in earthquake frequency and intensity worldwide. This visualization was generated with `earthquake_map.py`.
+
+<img width="1264" height="871" alt="newplot(1)" src="https://github.com/user-attachments/assets/5ee48ece-86bb-4e17-9628-6a3fc9d6a0aa" />
+
+The chart above shows significant volcanic eruptions worldwide from the year 1000 to 2020. Each eruption meets criteria such as causing fatalities, significant damage, or having a high Volcanic Explosivity Index (VEI). The visualization highlights the locations, types, and elevations of these volcanoes, providing a clear view of global volcanic activity over the last millennium. This visualization was generated with `volcano_map.py`.
