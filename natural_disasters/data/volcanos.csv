@@ -1,0 +1,785 @@
+﻿Eruption date;Country;Volcano Name;Location;Tsunami;Earthquake;Elevation;Volcano Type;Status;Volcanic Explosivity Index;Volcano : Deaths;Total Effects : Deaths;Coordinates
+1280-01-01;Ecuador;Quilotoa;Ecuador;non;non;3914;Caldera;Radiocarbon;6;;;-0.85, -78.9
+1540-01-01;United States;Augustine;Alaska-SW;oui;non;1252;Lava dome;Historical;4;;;59.37, -153.42
+1864-01-03;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;2;54;54;-7.93, 112.308
+1902-08-07;Japan;Tori-shima;Izu Is-Japan;non;non;403;Stratovolcano;Historical;3;125;125;30.48, 140.32
+1907-08-04;Ethiopia;Alayta;Africa-NE;non;non;1501;Shield volcano;Historical;2;;;12.88, 40.57
+1909-09-01;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;221;221;-8.108, 112.92
+1963-09-28;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;3;7;7;14.473, -90.88
+1968-04-21;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;6;6;13.257, 123.685
+2001-10-20;Italy;Stromboli;Italy;non;non;926;Stratovolcano;Historical;2;1;1;38.789, 15.213
+1357-01-01;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;;;63.63, -19.05
+1586-01-01;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;5;10000;10000;-7.93, 112.308
+1893-05-19;Japan;Azuma;Honshu-Japan;non;non;2024;Stratovolcano;Historical;2;2;2;37.73, 140.25
+1918-07-18;Indonesia;Banua Wuhu;Sangihe Is-Indonesia;oui;non;-5;Submarine volcano;Historical;3;;;3.138, 125.491
+1970-05-05;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;3;;;63.98, -19.7
+1977-04-27;Iceland;Krafla;Iceland-NE;non;non;650;Caldera;Historical;1;;;65.73, -16.78
+2015-10-01;New Zealand;Okataina;New Zealand;non;non;1111;Lava dome;Historical;;1;1;-38.12, 176.5
+1158-01-19;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;;;63.98, -19.7
+1329-07-01;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;1;;;37.734, 15.004
+1646-07-19;Indonesia;Makian;Halmahera-Indonesia;non;non;1357;Stratovolcano;Historical;4;;;0.32, 127.4
+1784-01-01;United States;Hualalai;Hawaiian Is;non;non;2523;Shield volcano;Historical;0;;;19.692, -155.87
+1820-06-11;Pacific Ocean;Banda Api;Banda Sea;non;non;640;Caldera;Historical;2;;;-4.525, 129.871
+1870-08-01;Indonesia;Ruang;Sangihe Is-Indonesia;non;non;725;Stratovolcano;Historical;2;;;2.28, 125.425
+1897-03-26;Solomon Is.;Tinakula;Santa Cruz Is-SW Pac;oui;non;851;Stratovolcano;Historical;2;;;-10.38, 165.8
+1902-05-07;St. Vincent & the Grenadines;Soufriere St. Vincent;W Indies;oui;non;1220;Stratovolcano;Historical;4;1680;1680;13.33, -61.18
+1903-01-01;Comoros;Karthala;Indian O-W;non;non;2361;Shield volcano;Historical;;17;17;-11.75, 43.38
+1932-10-01;Japan;Kusatsu-Shirane;Honshu-Japan;non;non;2176;Stratovolcano;Historical;3;2;2;36.62, 138.55
+1951-01-01;Solomon Is.;Kavachi;Solomon Is-SW Pacifi;oui;non;-20;Submarine volcano;Historical;2;;;-9.02, 157.95
+1991-10-24;Indonesia;Lokon-Empung;Sulawesi-Indonesia;non;non;1580;Stratovolcano;Historical;1;1;1;1.358, 124.792
+2011-12-27;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;3;4;4;0.8, 127.325
+1385-01-01;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;;;-7.93, 112.308
+1766-07-20;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;49;49;13.257, 123.685
+1784-04-01;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;4;;9350;64.42, -17.33
+1890-01-01;Papua New Guinea;Victory;New Guinea;non;non;1925;Stratovolcano;Historical;2;;;-9.2, 149.07
+1913-05-29;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;1;1;1;36.4, 138.53
+1932-01-21;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;4;;;14.473, -90.88
+1967-12-04;Antarctica;Deception Island;Antarctica;oui;non;576;Caldera;Historical;3;;;-62.97, -60.65
+1988-12-25;Chile;Lonquimay;Chile-C;non;non;2865;Stratovolcano;Historical;3;1;1;-38.377, -71.58
+1993-03-12;Ecuador;Guagua Pichincha;Ecuador;non;non;4784;Stratovolcano;Historical;1;2;2;-0.171, -78.598
+2008-08-22;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;2;2;-1.467, -78.442
+2011-06-22;Eritrea;Nabro;Africa-NE;non;non;2218;Stratovolcano;Holocene;3;31;31;13.37, 41.7
+2013-09-01;Peru;Ubinas;Peru;non;non;5672;Stratovolcano;Historical;;;;-16.355, -70.903
+1593-01-01;Indonesia;Raung;Java;non;non;3332;Stratovolcano;Historical;5;;;-8.125, 114.042
+1692-06-04;Pacific Ocean;Serua;Banda Sea;non;non;641;Stratovolcano;Historical;4;;;-6.3, 130.0
+1883-12-01;Papua New Guinea;Bagana;Bougainville-SW Paci;non;non;1750;Lava cone;Historical;3;;;-6.14, 155.195
+1928-01-23;Greece;Santorini;Greece;non;non;329;Shield volcano;Historical;2;48;48;36.404, 25.396
+1963-03-18;Indonesia;Agung;Lesser Sunda Is;oui;non;3142;Stratovolcano;Historical;5;1028;1028;-8.342, 115.508
+1965-09-28;Philippines;Taal;Luzon-Philippines;oui;non;400;Stratovolcano;Historical;4;355;355;14.002, 120.993
+1973-01-27;Iceland;Vestmannaeyjar;Iceland-S;non;non;279;Submarine volcano;Historical;3;1;1;63.43, -20.28
+1975-11-29;United States;Kilauea;Hawaiian Is;oui;oui;1222;Shield volcano;Historical;0;;2;19.425, -155.292
+1982-05-27;Mexico;Chichon, El;Mexico;non;non;1150;Tuff cone;Historical;5;1;1;17.36, -93.228
+1986-08-21;Cameroon;Oku Volc Field;Africa-W;non;non;3011;Maar;Radiocarbon;3;1700;1700;6.25, 10.5
+1994-01-15;Vanuatu;Yasur;Vanuatu-SW Pacific;non;non;361;Stratovolcano;Historical;3;1;1;-19.52, 169.425
+2004-06-08;Indonesia;Tengger Caldera;Java;non;non;2329;Stratovolcano;Historical;2;2;;-7.942, 112.95
+2008-08-08;United States;Kasatochi;Aleutian Is;oui;non;314;Stratovolcano;Historical;3;;;52.18, -175.5
+2017-12-18;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;;8;8;-7.542, 110.442
+1706-05-05;Spain;Tenerife;Canary Is;oui;non;3715;Stratovolcano;Historical;2;;;28.271, -16.641
+1826-10-11;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;2;;;-7.2, 109.92
+1832-11-01;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;;;37.734, 15.004
+1924-05-10;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;2;1;1;19.425, -155.292
+1969-01-28;Indonesia;Iya;Lesser Sunda Is;non;non;637;Stratovolcano;Historical;3;2;2;-8.88, 121.63
+1999-08-15;Russia;Shiveluch;Kamchatka;non;non;3283;Stratovolcano;Historical;4;;;56.653, 161.36
+1580-01-01;Papua New Guinea;Billy Mitchell;Bougainville-SW Paci;non;non;1544;Pyroclastic shield;Radiocarbon;6;;;-6.092, 155.225
+1698-01-01;Indonesia;Cereme;Java;non;non;3078;Stratovolcano;Historical;3;;;-6.892, 108.4
+1901-08-09;Vanuatu;Epi;Vanuatu-SW Pacific;oui;oui;833;Stratovolcano;Historical;;;;-16.68, 168.37
+1907-07-01;Tonga;Unnamed;Tonga-SW Pacific;oui;oui;-500;Submarine volcano;Historical;0;;;-21.38, -175.65
+1946-02-01;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;6;6;-8.108, 112.92
+1961-08-18;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;1;1;36.4, 138.53
+1962-06-29;Japan;Tokachi;Hokkaido-Japan;non;non;2077;Stratovolcano;Historical;3;5;5;43.42, 142.68
+2000-07-27;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;2;2;-8.108, 112.92
+1477-02-01;Iceland;Bardarbunga;Iceland-NE;non;non;2000;Stratovolcano;Historical;6;;;64.63, -17.53
+1597-01-01;Indonesia;Raung;Java;non;non;3332;Stratovolcano;Historical;3;;;-8.125, 114.042
+1815-04-10;Indonesia;Tambora;Lesser Sunda Is;oui;non;2850;Stratovolcano;Historical;7;11000;60000;-8.25, 118.0
+1854-06-27;Russia;Alaid;Kuril Is;oui;non;2339;Stratovolcano;Historical;3;;;50.858, 155.55
+1950-09-15;Philippines;Camiguin;Mindanao-Philippines;non;non;1332;Stratovolcano;Historical;3;68;68;9.203, 124.673
+1950-09-23;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;1;1;36.4, 138.53
+1956-03-30;Russia;Bezymianny;Kamchatka;oui;non;2882;Stratovolcano;Historical;5;;;55.978, 160.587
+1958-10-07;Vanuatu;Kuwae;Vanuatu-SW Pacific;oui;non;-2;Caldera;Historical;2;;;-16.829, 168.536
+1967-08-31;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;3;3;-8.108, 112.92
+1988-05-09;Pacific Ocean;Banda Api;Banda Sea;non;non;640;Caldera;Historical;3;4;4;-4.525, 129.871
+1993-06-13;Indonesia;Krakatau;Indonesia;non;non;813;Caldera;Historical;1;1;1;-6.102, 105.423
+1997-12-26;Montserrat;Soufriere Hills;W Indies;oui;non;915;Stratovolcano;Historical;;;;16.72, -62.18
+2007-03-01;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;4;4;4;-4.1, 145.061
+2007-09-30;Yemen;Tair, Jebel at;Red Sea;non;non;244;Stratovolcano;Historical;;7;7;15.7, 41.742
+2012-12-12;Russia;Tolbachik;Kamchatka;non;non;3682;Shield volcano;Historical;;;;55.83, 160.33
+2018-04-28;United States;Kilauea;Hawaiian Is;oui;oui;1222;Shield volcano;Historical;1;;;19.425, -155.292
+2020-05-29;Indonesia;Ijen;Java;oui;oui;2799;Stratovolcano;Historical;;1;1;-8.058, 114.242
+1151-01-01;Iceland;Krisuvik;Iceland-SW;non;non;379;Crater rows;Historical;1;;;63.93, -22.1
+1206-12-04;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;2;;;63.98, -19.7
+1772-08-12;Indonesia;Papandayan;Java;non;non;2665;Stratovolcano;Historical;3;2957;2957;-7.32, 107.73
+1781-04-11;Japan;Sakura-jima;Kyushu-Japan;oui;non;1117;Stratovolcano;Historical;4;23;38;31.58, 130.67
+1826-10-01;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;;;32.88, 131.1
+1840-05-30;United States;Kilauea;Hawaiian Is;oui;non;1222;Shield volcano;Historical;0;;;19.425, -155.292
+1858-07-03;Japan;Tate-yama;Honshu-Japan;non;non;2621;Stratovolcano;Historical;;;;36.57, 137.6
+1936-02-01;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;3;2;2;36.4, 138.53
+1951-01-21;Papua New Guinea;Lamington;New Guinea;non;non;1680;Stratovolcano;Historical;4;2942;2942;-8.95, 148.15
+1985-12-19;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;1;1;1;37.734, 15.004
+1997-09-02;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;2;2;-8.108, 112.92
+1631-12-16;Italy;Vesuvius;Italy;oui;oui;1281;Complex volcano;Historical;5;4000;4000;40.821, 14.426
+1914-01-12;Japan;Sakura-jima;Kyushu-Japan;oui;oui;1117;Stratovolcano;Historical;4;28;63;31.58, 130.67
+1919-05-22;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;3;4;4;38.789, 15.213
+1927-09-05;Iceland;Esjufjoll;Iceland-SE;non;non;1760;Stratovolcano;Historical;1;1;1;64.27, -16.65
+1944-03-27;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;2;27;27;40.821, 14.426
+1949-06-01;Philippines;Camiguin;Mindanao-Philippines;non;non;1332;Stratovolcano;Historical;3;2;2;9.203, 124.673
+1972-10-02;Japan;Hakone;Honshu-Japan;non;non;1438;Complex volcano;Radiocarbon;;2;2;35.22, 139.02
+2002-01-01;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;3;3;-8.108, 112.92
+1580-05-01;Portugal;San Jorge;Azores;non;non;1053;Fissure vent;Historical;3;10;10;38.65, -28.08
+1801-07-01;Japan;Chokai;Honshu-Japan;non;non;2237;Stratovolcano;Historical;2;8;8;39.08, 140.03
+1804-01-01;Japan;Shikotsu;Hokkaido-Japan;non;non;1320;Caldera;Historical;3;;;42.7, 141.33
+1952-03-27;Japan;Hakone;Honshu-Japan;non;non;1438;Complex volcano;Radiocarbon;;1;1;35.22, 139.02
+1963-03-17;Costa Rica;Irazu;Costa Rica;non;non;3432;Stratovolcano;Historical;3;15;15;9.979, -83.852
+2016-05-21;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;7;7;3.17, 98.392
+2019-07-03;Italy;Stromboli;Italy;non;non;926;Stratovolcano;Historical;2;1;1;38.789, 15.213
+1566-10-31;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;3;;;31.93, 130.87
+1597-01-03;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;;;63.98, -19.7
+1672-08-04;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;3000;3000;-7.542, 110.442
+1753-10-15;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;2;;;64.42, -17.33
+1841-04-01;Japan;Kuchinoerabu-jima;Ryukyu Is;non;non;649;Stratovolcano;Historical;2;;;30.43, 130.22
+1843-02-08;St. Kitts & Nevis;Liamuiga;W Indies;oui;non;1156;Stratovolcano;Radiocarbon;0;;;17.37, -62.8
+1937-05-29;Papua New Guinea;Rabaul;New Britain-SW Pac;oui;oui;688;Pyroclastic shield;Historical;4;507;507;-4.271, 152.203
+1953-06-27;Papua New Guinea;St. Andrew Strait;Admiralty Is-SW Paci;oui;non;270;Complex volcano;Historical;0;;;-2.38, 147.35
+1977-08-02;Russia;Kliuchevskoi;Kamchatka;non;non;4835;Stratovolcano;Historical;3;1;1;56.057, 160.638
+1981-06-30;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;;200;200;13.257, 123.685
+1992-05-11;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;1;6;6;2.78, 125.48
+1994-09-19;Papua New Guinea;Rabaul;New Britain-SW Pac;oui;non;688;Pyroclastic shield;Historical;3;4;4;-4.271, 152.203
+1997-01-14;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;6;6;-7.542, 110.442
+2015-07-31;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;2;;;-4.1, 145.061
+1900-07-17;Japan;Adatara;Honshu-Japan;non;non;1718;Stratovolcano;Historical;2;72;72;37.62, 140.28
+1913-03-14;Indonesia;Awu;Sangihe Is-Indonesia;oui;oui;1320;Stratovolcano;Historical;2;;138;3.67, 125.5
+1938-01-28;Congo, DRC;Nyamuragira;Africa-C;oui;non;3058;Shield volcano;Historical;1;;;-1.408, 29.2
+1958-07-12;Indonesia;Mahawu;Sulawesi-Indonesia;non;non;1324;Stratovolcano;Historical;2;1;1;1.358, 124.858
+1964-01-01;Indonesia;Paluweh;Lesser Sunda Is;non;non;875;Stratovolcano;Historical;2;1;1;-8.32, 121.708
+2000-08-23;Costa Rica;Arenal;Costa Rica;non;non;1657;Stratovolcano;Historical;3;2;2;10.463, -84.703
+2011-07-17;Indonesia;Lokon-Empung;Sulawesi-Indonesia;non;non;1580;Stratovolcano;Historical;;1;1;1.358, 124.792
+2018-07-16;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;;;19.425, -155.292
+1570-01-01;Nicaragua;Mombacho;Nicaragua;non;non;1344;Stratovolcano;Holocene;;400;400;11.826, -85.968
+1872-04-24;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;3;9;9;40.821, 14.426
+1878-08-29;United States;Okmok;Aleutian Is;oui;oui;1073;Shield volcano;Historical;2;;;53.42, -168.13
+1963-12-10;Costa Rica;Irazu;Costa Rica;non;non;3432;Stratovolcano;Historical;3;40;40;9.979, -83.852
+1971-09-14;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;3;10;10;14.473, -90.88
+1997-07-12;Japan;Hakkoda Group;Honshu-Japan;non;non;1585;Stratovolcano;Holocene;;3;3;40.65, 140.88
+2004-01-29;Indonesia;Egon;Lesser Sunda Is;non;non;1703;Stratovolcano;Historical;1;1;1;-8.67, 122.45
+2013-02-01;Indonesia;Paluweh;Lesser Sunda Is;non;non;875;Stratovolcano;Historical;;;;-8.32, 121.708
+1587-01-01;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;4;;;-7.542, 110.442
+1775-01-01;Indonesia;Lokon-Empung;Sulawesi-Indonesia;non;non;1580;Stratovolcano;Historical;3;;;1.358, 124.792
+1874-07-19;Philippines;Taal;Luzon-Philippines;non;non;400;Stratovolcano;Historical;2;;;14.002, 120.993
+1952-09-23;Japan;Myojun Knoll;Izu Is-Japan;oui;non;360;Submarine volcano;Holocene;2;;;32.1, 139.85
+1961-01-25;Chile;Calbuco;Chile-S;non;non;2003;Stratovolcano;Historical;3;;;-41.326, -72.614
+1986-07-24;Italy;Stromboli;Italy;non;non;926;Stratovolcano;Historical;2;1;1;38.789, 15.213
+1996-04-30;Mexico;Popocatepetl;Mexico;non;non;5426;Stratovolcano;Historical;3;5;5;19.023, -98.622
+2016-06-09;United States;Yellowstone;US-Wyoming;non;non;2805;Caldera;Tephrochronology;;1;1;44.43, -110.67
+1730-01-01;Indonesia;Raung;Java;non;non;3332;Stratovolcano;Historical;3;;;-8.125, 114.042
+1749-08-11;Philippines;Taal;Luzon-Philippines;oui;oui;400;Stratovolcano;Historical;3;;;14.002, 120.993
+1848-05-16;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;2;21;21;-7.93, 112.308
+1861-05-07;Eritrea;Dubbi;Africa-NE;non;oui;1625;Stratovolcano;Historical;3;106;106;13.58, 41.808
+1892-08-30;Tonga;Tofua;Tonga-SW Pacific;oui;non;512;Caldera;Historical;2;;;-19.75, -175.07
+1902-05-05;Martinique;Pelee;W Indies;oui;non;1397;Stratovolcano;Historical;;23;23;14.82, -61.17
+1912-12-03;Congo, DRC;Nyamuragira;Africa-C;non;non;3058;Shield volcano;Historical;3;20;20;-1.408, 29.2
+1923-03-02;Vietnam;Cendres, Ile des;SE Asia;oui;oui;-20;Submarine volcanoes;Historical;2;;;10.158, 109.014
+1980-12-25;United States;Hood;US-Oregon;non;non;3426;Stratovolcano;Historical;;1;1;45.374, -121.694
+1994-05-29;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;1;1;1;32.88, 131.1
+2011-02-23;Philippines;Bulusan;Luzon-Philippines;non;non;1565;Stratovolcano;Historical;2;1;1;12.77, 124.05
+2014-02-13;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;;7;7;-7.93, 112.308
+1376-01-01;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;;;-7.93, 112.308
+1664-04-15;Japan;Unzen;Kyushu-Japan;non;non;1500;Complex volcano;Historical;2;30;30;32.75, 130.3
+1840-02-02;Indonesia;Gamalama;Halmahera-Indonesia;oui;non;1715;Stratovolcano;Historical;2;;;0.8, 127.325
+1911-11-03;Trinidad;Piparo;Trinidad;oui;non;140;Mud volcano;Historical;;;;10.0, -61.0
+1916-07-03;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;3;;;38.789, 15.213
+1944-08-26;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;2;1;1;42.53, 140.83
+1971-08-12;Chile;Hudson, Cerro;Chile-S;non;non;1905;Stratovolcano;Historical;3;5;3;-45.9, -72.97
+1973-12-05;Indonesia;Iliwerung;Lesser Sunda Is;non;non;1018;Complex volcano;Historical;2;2;2;-8.54, 123.59
+1979-03-08;Papua New Guinea;Karkar;New Guinea-NE of;non;non;1839;Stratovolcano;Historical;2;2;2;-4.649, 145.964
+1982-03-29;Mexico;Chichon, El;Mexico;non;oui;1150;Tuff cone;Historical;5;1879;1879;17.36, -93.228
+2014-09-27;Japan;On-take;Honshu-Japan;non;non;3063;Complex volcano;Historical;3;55;55;35.9, 137.48
+2018-08-25;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;4;;;-4.1, 145.061
+1911-08-15;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;;;36.4, 138.53
+1944-06-10;United States;Cleveland;Aleutian Is;non;non;1730;Stratovolcano;Historical;3;1;1;52.82, -169.95
+1972-10-09;Papua New Guinea;Ritter Island;New Guinea-NE of;oui;non;140;Stratovolcano;Historical;1;;;-5.52, 148.121
+1983-10-03;Japan;Miyake-jima;Izu Is-Japan;non;oui;815;Stratovolcano;Historical;3;;;34.08, 139.53
+1984-10-16;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;3;1;1;37.734, 15.004
+1990-10-19;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;1;1;32.88, 131.1
+1311-01-01;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;;;-7.93, 112.308
+1800-01-01;Tanzania;Kieyo;Africa-E;non;non;2175;Stratovolcano;Historical;2;;;-9.23, 33.78
+1923-06-01;Indonesia;Tangkubanparahu;Java;non;non;2084;Stratovolcano;Historical;;3;3;-6.77, 107.6
+1939-07-24;Netherlands;Kick-'em-Jenny;W Indies;oui;non;-177;Submarine volcano;Historical;1;;;12.3, -61.63
+1971-10-29;Chile;Villarrica;Chile-C;non;non;2847;Stratovolcano;Historical;2;15;15;-39.42, -71.93
+1918-10-12;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;;;63.63, -19.05
+1994-11-22;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;60;60;-7.542, 110.442
+1766-04-05;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;;;63.98, -19.7
+1790-11-01;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;4;5405;5405;19.425, -155.292
+1803-07-04;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;;;36.4, 138.53
+1869-08-01;Indonesia;Lamongan;Java;non;non;1651;Stratovolcano;Historical;2;8;8;-8.0, 113.342
+1883-10-10;Indonesia;Krakatau;Indonesia;oui;non;813;Caldera;Historical;;;;-6.102, 105.423
+1900-01-22;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;25;25;36.4, 138.53
+1928-08-04;Indonesia;Paluweh;Lesser Sunda Is;oui;non;875;Stratovolcano;Historical;3;98;226;-8.32, 121.708
+1980-05-18;United States;St. Helens;US-Washington;oui;oui;2549;Stratovolcano;Historical;5;57;61;46.2, -122.18
+1981-01-01;Russia;Vilyuchik;Kamchatka;non;non;2173;Stratovolcano;Tephrochronology;;;;52.68, 158.3
+1995-02-04;Vanuatu;Yasur;Vanuatu-SW Pacific;non;non;361;Stratovolcano;Historical;3;2;2;-19.52, 169.425
+2011-07-09;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;;;;63.63, -19.05
+2018-12-15;Vanuatu;Ambrym;Vanuatu-SW Pacific;non;oui;1334;Pyroclastic shield;Historical;2;;;-16.25, 168.12
+2019-06-28;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;4;;;-4.1, 145.061
+1992-07-12;Philippines;Pinatubo;Luzon-Philippines;non;non;1486;Stratovolcano;Historical;1;6;6;15.13, 120.35
+2005-10-01;El Salvador;Santa Ana;El Salvador;non;non;2365;Stratovolcano;Historical;3;2;2;13.853, -89.63
+2018-03-21;Indonesia;Ijen;Java;non;non;2799;Stratovolcano;Historical;;;;-8.058, 114.242
+1169-02-11;Italy;Etna;Italy;oui;non;3350;Stratovolcano;Historical;;;;37.734, 15.004
+1717-08-04;Iceland;Bardarbunga;Iceland-NE;non;non;2000;Stratovolcano;Historical;3;;;64.63, -17.53
+1853-10-29;Taiwan;Unnamed;Taiwan-E of;oui;non;0;Submarine volcano;Historical;2;;;24.0, 121.83
+1860-04-01;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;;;-8.108, 112.92
+1886-01-11;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;4;2;2;-1.467, -78.442
+1893-01-07;Chile;Calbuco;Chile-S;non;non;2003;Stratovolcano;Historical;4;;;-41.326, -72.614
+1953-03-11;Japan;Myojun Knoll;Izu Is-Japan;oui;non;360;Submarine volcano;Holocene;2;;;32.1, 139.85
+1981-03-29;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;1;1;-8.108, 112.92
+2013-05-07;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;;5;5;13.257, 123.685
+1693-02-13;Iceland;Hekla;Iceland-S;oui;non;1491;Stratovolcano;Historical;4;;;63.98, -19.7
+1800-06-24;Portugal;San Jorge;Azores;non;non;1053;Fissure vent;Historical;1;9;9;38.65, -28.08
+1817-01-24;Indonesia;Ijen;Java;non;non;2799;Stratovolcano;Historical;2;;;-8.058, 114.242
+1825-01-01;Papua New Guinea;Balbi;Bougainville-SW Paci;non;non;2715;Stratovolcano;Holocene;;;;-5.83, 154.98
+1961-06-18;Japan;Daisetsu;Hokkaido-Japan;non;non;2290;Stratovolcano;Tephrochronology;;2;2;43.68, 142.88
+1978-09-02;Guatemala;Santa Maria;Guatemala;non;non;3772;Stratovolcano;Historical;3;1;1;14.756, -91.552
+1986-11-15;Japan;Oshima;Izu Is-Japan;non;non;758;Stratovolcano;Historical;3;1;1;34.73, 139.38
+2013-08-10;Indonesia;Paluweh;Lesser Sunda Is;non;non;875;Stratovolcano;Historical;3;5;5;-8.32, 121.708
+2017-04-13;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;2;;;3.17, 98.392
+2018-12-22;Indonesia;Krakatau;Indonesia;oui;non;813;Caldera;Historical;1;;437;-6.102, 105.423
+1784-07-01;Peru;Sabancaya;Peru;non;non;5967;Stratovolcano;Historical;;;;-15.78, -71.85
+1800-10-08;Indonesia;Guntur;Java;non;non;2249;Complex volcano;Historical;;;;-7.13, 107.83
+1861-05-01;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;2;;;64.42, -17.33
+1878-01-01;Papua New Guinea;Rabaul;New Britain-SW Pac;oui;oui;688;Pyroclastic shield;Historical;3;1;1;-4.271, 152.203
+1917-01-01;Tanzania;Lengai, Ol Doinyo;Africa-E;non;non;2890;Stratovolcano;Historical;3;;;-2.751, 35.902
+1988-07-06;Costa Rica;Arenal;Costa Rica;non;non;1657;Stratovolcano;Historical;3;1;1;10.463, -84.703
+2005-11-24;Comoros;Karthala;Indian O-W;non;non;2361;Shield volcano;Historical;;;;-11.75, 43.38
+1659-11-11;Pacific Ocean;Teon;Banda Sea;oui;non;655;Stratovolcano;Historical;4;;;-6.92, 129.125
+1664-01-01;Japan;Iwo-Tori-shima;Ryukyu Is;oui;non;217;Complex volcano;Historical;;;;27.85, 128.25
+1707-05-01;Greece;Santorini;Greece;oui;non;329;Shield volcano;Historical;;;;36.404, 25.396
+1729-06-30;Iceland;Krafla;Iceland-NE;non;non;650;Caldera;Historical;2;;;65.73, -16.78
+1856-07-26;United States;Shishaldin;Aleutian Is;oui;non;2857;Stratovolcano;Historical;;;;54.75, -163.97
+1860-08-18;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;2;;;14.473, -90.88
+1868-09-05;Italy;Etna;Italy;oui;oui;3350;Stratovolcano;Historical;;;;37.734, 15.004
+1917-04-01;New Zealand;Okataina;New Zealand;non;non;1111;Lava dome;Historical;1;2;2;-38.12, 176.5
+1934-01-01;United States;Hood;US-Oregon;non;non;3426;Stratovolcano;Historical;;1;1;45.374, -121.694
+1955-10-13;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;3;;;31.58, 130.67
+2019-01-07;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;4;;;-4.1, 145.061
+2019-05-07;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;;;3.17, 98.392
+1471-11-03;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;5;;;31.58, 130.67
+1596-05-01;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;;;36.4, 138.53
+1716-10-05;Iceland;Bardarbunga;Iceland-NE;non;non;2000;Stratovolcano;Historical;2;;;64.63, -17.53
+1840-01-01;Solomon Is.;Tinakula;Santa Cruz Is-SW Pac;non;non;851;Stratovolcano;Historical;3;;;-10.38, 165.8
+1861-12-29;Indonesia;Makian;Halmahera-Indonesia;non;non;1357;Stratovolcano;Historical;4;326;326;0.32, 127.4
+1903-08-30;New Zealand;Okataina;New Zealand;non;non;1111;Lava dome;Historical;1;4;4;-38.12, 176.5
+1974-06-17;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;3;3;3;31.58, 130.67
+1978-01-01;Indonesia;Tangkubanparahu;Java;non;non;2084;Stratovolcano;Historical;;3;3;-6.77, 107.6
+1987-04-17;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;2;2;37.734, 15.004
+1996-09-30;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;3;;;64.42, -17.33
+2001-08-05;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;2;2;-7.542, 110.442
+1711-12-11;Indonesia;Awu;Sangihe Is-Indonesia;non;non;1320;Stratovolcano;Historical;3;3000;3000;3.67, 125.5
+1877-06-25;Ecuador;Cotopaxi;Ecuador;non;non;5911;Stratovolcano;Historical;4;340;340;-0.677, -78.436
+1906-04-04;Italy;Vesuvius;Italy;oui;non;1281;Complex volcano;Historical;3;350;350;40.821, 14.426
+1933-01-08;Russia;Kharimkotan;Kuril Is;oui;non;1145;Stratovolcano;Historical;3;;2;49.12, 154.508
+1933-12-24;Japan;Kuchinoerabu-jima;Ryukyu Is;non;non;649;Stratovolcano;Historical;4;8;8;30.43, 130.22
+2011-04-01;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;4;;;-1.467, -78.442
+1660-01-01;Papua New Guinea;Long Island;New Guinea-NE of;oui;non;1280;Complex volcano;Historical;6;2000;2000;-5.358, 147.12
+1858-04-23;Japan;Tate-yama;Honshu-Japan;non;oui;2621;Stratovolcano;Historical;;;;36.57, 137.6
+1919-07-06;Japan;Nasu;Honshu-Japan;non;non;1917;Stratovolcano;Historical;;2;2;37.12, 139.97
+1949-01-01;Chile;Villarrica;Chile-C;non;non;2847;Stratovolcano;Historical;3;54;54;-39.42, -71.93
+1730-01-01;Canada;Tseax River Cone;Canada;non;non;609;Pyroclastic cone;Radiocarbon;;;;55.12, -128.9
+1940-07-12;Japan;Miyake-jima;Izu Is-Japan;non;non;815;Stratovolcano;Historical;2;11;11;34.08, 139.53
+1966-01-13;Solomon Is.;Tinakula;Santa Cruz Is-SW Pac;oui;non;851;Stratovolcano;Historical;3;;;-10.38, 165.8
+1974-10-10;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;4;;;14.473, -90.88
+1975-01-01;Indonesia;Marapi;Sumatra;non;non;2891;Complex volcano;Historical;2;80;80;-0.381, 100.473
+1984-09-14;Japan;On-take;Honshu-Japan;non;non;3063;Complex volcano;Historical;;29;29;35.9, 137.48
+1991-06-01;Russia;Mutnovsky;Kamchatka;non;non;2322;Complex volcano;Historical;;1;1;52.453, 158.195
+1991-08-08;Chile;Hudson, Cerro;Chile-S;non;non;1905;Stratovolcano;Historical;5;;;-45.9, -72.97
+2018-02-09;Papua New Guinea;Kadovar;New Guinea-NE of;oui;non;365;Stratovolcano;Holocene;;;;-3.62, 144.62
+1510-10-15;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;;;63.98, -19.7
+1615-03-01;Pacific Ocean;Banda Api;Banda Sea;non;non;640;Caldera;Historical;3;;;-4.525, 129.871
+1617-01-01;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;3;;;14.473, -90.88
+1677-11-22;Spain;La Palma;Canary Is;non;non;2426;Stratovolcano;Historical;2;1;1;28.58, -17.83
+1843-11-17;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;56;56;37.734, 15.004
+1847-12-04;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;2;;;-7.2, 109.92
+1857-04-17;Papua New Guinea;Umboi;New Guinea-NE of;oui;oui;1548;Complex volcano;Holocene;;;;-5.589, 147.875
+1866-09-12;United States;Ofu-Olosega;Samoa-SW Pacific;oui;non;639;Shield volcano;Historical;2;;;-14.175, -169.618
+1870-01-01;Indonesia;Iliwerung;Lesser Sunda Is;non;non;1018;Complex volcano;Historical;3;;;-8.54, 123.59
+1885-05-25;Colombia;Purace;Colombia;non;oui;4650;Stratovolcano;Historical;3;;;2.32, -76.4
+1971-12-27;Japan;Kusatsu-Shirane;Honshu-Japan;non;non;2176;Stratovolcano;Historical;;6;6;36.62, 138.55
+1998-04-28;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;1;;19.425, -155.292
+1630-09-03;Portugal;Furnas;Azores;non;non;805;Stratovolcano;Historical;4;200;200;37.77, -25.32
+1669-03-11;Italy;Etna;Italy;non;oui;3350;Stratovolcano;Historical;3;;;37.734, 15.004
+1690-01-01;Indonesia;Guntur;Java;non;non;2249;Complex volcano;Historical;3;;;-7.13, 107.83
+1964-03-03;Chile;Villarrica;Chile-C;non;non;2847;Stratovolcano;Historical;2;25;25;-39.42, -71.93
+1974-10-22;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;9;9;-7.542, 110.442
+2015-10-16;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;1;1;3.17, 98.392
+1609-01-01;China;Tengchong;China-S;non;non;2865;Pyroclastic cone;Historical;;;;25.32, 98.47
+1718-02-01;Portugal;Pico;Azores;non;non;2351;Stratovolcano;Historical;2;2;2;38.47, -28.4
+1846-05-07;New Zealand;Taupo;New Zealand;non;non;760;Caldera;Radiocarbon;;63;63;-38.82, 176.0
+1877-02-14;United States;Mauna Loa;Hawaiian Is;oui;oui;4170;Shield volcano;Historical;0;;;19.475, -155.608
+1896-03-15;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;2;1;1;31.93, 130.87
+1902-05-08;Martinique;Pelee;W Indies;oui;non;1397;Stratovolcano;Historical;4;28000;28000;14.82, -61.17
+1923-03-11;Indonesia;Papandayan;Java;non;non;2665;Stratovolcano;Historical;1;1;1;-7.32, 107.73
+1947-09-16;Japan;Akagi;Honshu-Japan;non;non;1828;Stratovolcano;Historical;;699;699;36.53, 139.18
+1963-05-05;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;1;1;-8.108, 112.92
+1998-10-30;Nicaragua;San Cristobal;Nicaragua;non;non;1745;Stratovolcano;Historical;;1620;1620;12.702, -87.004
+2007-04-18;Colombia;Huila;Colombia;non;non;5365;Stratovolcano;Historical;;;;2.92, -76.05
+2008-05-02;Chile;Chaiten;Chile-S;non;non;962;Caldera;Holocene;;1;1;-42.833, -72.646
+1669-03-19;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;3;2;2;37.734, 15.004
+1698-05-01;Italy;Vesuvius;Italy;oui;non;1281;Complex volcano;Historical;3;;;40.821, 14.426
+1707-12-16;Japan;Fuji;Honshu-Japan;non;oui;3776;Stratovolcano;Historical;4;;;35.35, 138.73
+1835-01-20;Nicaragua;Cosiguina;Nicaragua;non;non;872;Stratovolcano;Historical;5;;;12.98, -87.57
+1860-01-01;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;;1;1;64.42, -17.33
+1947-01-07;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;2;;;13.257, 123.685
+1957-03-11;United States;Vsevidof;Aleutian Is;non;oui;2149;Stratovolcano;Historical;2;;;53.13, -168.68
+1967-07-08;Tanzania;Lengai, Ol Doinyo;Africa-E;non;non;2890;Stratovolcano;Historical;3;;;-2.751, 35.902
+1988-07-30;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;1;1;-8.108, 112.92
+1990-03-26;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;1;1;32.88, 131.1
+2019-12-09;New Zealand;White Island;New Zealand;non;non;321;Stratovolcano;Historical;2;21;21;-37.52, 177.18
+1716-09-24;Philippines;Taal;Luzon-Philippines;oui;oui;400;Stratovolcano;Historical;4;;;14.002, 120.993
+1721-05-11;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;5;;;63.63, -19.05
+1819-01-01;United States;Asuncion;Mariana Is-C Pacific;oui;non;857;Stratovolcano;Historical;;;;19.67, 145.4
+1895-10-16;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;2;4;4;31.93, 130.87
+1953-03-23;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;64;64;-7.542, 110.442
+1954-07-21;Japan;Tate-yama;Honshu-Japan;non;non;2621;Stratovolcano;Historical;;1;1;36.57, 137.6
+1963-05-16;Indonesia;Agung;Lesser Sunda Is;non;oui;3142;Stratovolcano;Historical;3;120;120;-8.342, 115.508
+1997-04-17;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;1;3;3;2.78, 125.48
+2009-11-30;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;;;19.425, -155.292
+2011-01-03;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;;1;1;-7.542, 110.442
+1754-05-13;Philippines;Taal;Luzon-Philippines;oui;oui;400;Stratovolcano;Historical;4;12;12;14.002, 120.993
+1768-04-04;Ecuador;Cotopaxi;Ecuador;non;non;5911;Stratovolcano;Historical;4;;;-0.677, -78.436
+1814-02-01;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;4;1200;1200;13.257, 123.685
+1872-04-15;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;4;30;30;-7.542, 110.442
+1913-06-23;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;;;-8.108, 112.92
+1916-03-03;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;4;;;-1.467, -78.442
+1920-07-25;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;33;33;-7.542, 110.442
+1946-10-29;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;;;-8.108, 112.92
+1948-04-07;Indonesia;Iliwerung;Lesser Sunda Is;non;non;1018;Complex volcano;Historical;2;;;-8.54, 123.59
+1951-08-03;Nicaragua;Cosiguina;Nicaragua;oui;oui;872;Stratovolcano;Historical;;;;12.98, -87.57
+1974-08-09;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;3;5;5;31.58, 130.67
+1984-09-09;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;1;1;13.257, 123.685
+1996-01-02;Russia;Karymsky;Kamchatka;oui;non;1536;Stratovolcano;Historical;2;;;54.05, 159.43
+2011-01-28;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;;;;31.93, 130.87
+1550-11-01;Indonesia;Dukono;Halmahera-Indonesia;non;non;1185;Complex volcano;Historical;3;;;1.68, 127.88
+1576-01-01;Mexico;Colima;Mexico;non;non;3850;Stratovolcano;Historical;3;;;19.514, -103.62
+1580-08-11;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;;;63.63, -19.05
+1730-09-01;Spain;Lanzarote;Canary Is;non;non;670;Fissure vent;Historical;2;;;29.03, -13.63
+1850-01-01;Papua New Guinea;Rabaul;New Britain-SW Pac;non;non;688;Pyroclastic shield;Historical;2;;;-4.271, 152.203
+1887-03-09;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;15;15;13.257, 123.685
+1902-10-25;Guatemala;Santa Maria;Guatemala;non;non;3772;Stratovolcano;Historical;6;2500;10000;14.756, -91.552
+1937-02-09;Chile;Llaima;Chile-C;non;non;3125;Stratovolcano;Historical;2;3;3;-38.692, -71.729
+1943-04-13;Ecuador;Azul, Cerro;Galapagos;non;non;1690;Shield volcano;Historical;3;1;1;-0.9, -91.42
+1983-08-17;Indonesia;Iliwerung;Lesser Sunda Is;oui;non;1018;Complex volcano;Historical;1;;;-8.54, 123.59
+1990-05-29;Peru;Sabancaya;Peru;non;non;5967;Stratovolcano;Historical;3;;;-15.78, -71.85
+2000-11-01;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;1;1;-7.542, 110.442
+1682-08-12;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;3;4;4;40.821, 14.426
+1757-07-09;Portugal;San Jorge;Azores;non;oui;1053;Fissure vent;Historical;0;;1053;38.65, -28.08
+1997-08-01;Montserrat;Soufriere Hills;W Indies;non;non;915;Stratovolcano;Historical;3;2;2;16.72, -62.18
+2006-08-17;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;5;6;-1.467, -78.442
+1581-12-26;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;4;;;14.473, -90.88
+1608-07-18;Indonesia;Gamalama;Halmahera-Indonesia;oui;non;1715;Stratovolcano;Historical;3;;;0.8, 127.325
+1625-09-02;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;5;;;63.63, -19.05
+1660-02-01;Pacific Ocean;Teon;Banda Sea;non;non;655;Stratovolcano;Historical;4;3;3;-6.92, 129.125
+1773-02-02;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;2;;;0.8, 127.325
+1779-08-08;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;2;;;40.821, 14.426
+1867-10-21;Japan;Zao;Honshu-Japan;non;non;1841;Complex volcano;Historical;2;3;3;38.15, 140.45
+1870-01-01;Vanuatu;Aoba;Vanuatu-SW Pacific;non;non;1496;Shield volcano;Historical;2;;;-15.4, 167.83
+1910-03-20;New Zealand;Taupo;New Zealand;non;non;760;Caldera;Radiocarbon;;1;1;-38.82, 176.0
+1974-10-17;Papua New Guinea;Ritter Island;New Guinea-NE of;oui;non;140;Stratovolcano;Historical;1;;;-5.52, 148.121
+1987-01-25;Guatemala;Pacaya;Guatemala;non;non;2552;Complex volcano;Historical;3;;;14.381, -90.601
+2000-06-27;Japan;Miyake-jima;Izu Is-Japan;oui;oui;815;Stratovolcano;Historical;2;;1;34.08, 139.53
+2006-11-30;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;1;1266;1266;13.257, 123.685
+2018-01-23;Japan;Kusatsu-Shirane;Honshu-Japan;non;non;2176;Stratovolcano;Historical;;1;1;36.62, 138.55
+1640-01-01;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;5000;5000;-1.467, -78.442
+1650-09-26;Greece;Santorini;Greece;oui;non;329;Shield volcano;Historical;4;120;120;36.404, 25.396
+1717-02-07;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;3;1;1;31.93, 130.87
+1780-09-09;Japan;Sakura-jima;Kyushu-Japan;oui;non;1117;Stratovolcano;Historical;4;;;31.58, 130.67
+1833-11-24;Indonesia;Kaba;Sumatra;non;non;1952;Stratovolcano;Historical;2;126;126;-3.52, 102.62
+1871-03-03;Indonesia;Ruang;Sangihe Is-Indonesia;oui;non;725;Stratovolcano;Historical;2;;400;2.28, 125.425
+1928-01-01;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;;;13.257, 123.685
+1976-08-12;Ecuador;Sangay;Ecuador;non;non;5230;Stratovolcano;Historical;3;2;2;-2.03, -78.33
+1826-10-11;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;;;-7.93, 112.308
+1895-01-01;Papua New Guinea;Dakataua;New Britain-SW Pac;non;non;400;Caldera;Anthropology;2;;;-5.056, 150.108
+1930-08-20;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;3;6;6;36.4, 138.53
+1932-02-01;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;;;;-7.542, 110.442
+1954-01-01;Philippines;Camiguin;Mindanao-Philippines;non;non;1332;Stratovolcano;Historical;;2;2;9.203, 124.673
+1992-09-17;United States;Spurr;Alaska-SW;non;non;3374;Stratovolcano;Historical;4;1;1;61.3, -152.25
+1998-07-01;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;;10;10;-7.93, 112.308
+2010-10-26;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;;367;367;-7.542, 110.442
+2016-09-27;Indonesia;Rinjani;Lesser Sunda Is;non;non;3726;Stratovolcano;Historical;;;;-8.42, 116.47
+1302-01-01;Italy;Ischia;Italy;non;non;789;Complex volcano;Historical;;;;40.73, 13.897
+1568-01-01;Solomon Is.;Savo;Solomon Is-SW Pacifi;non;non;510;Stratovolcano;Historical;3;1001;1001;-9.13, 159.82
+1663-08-16;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;5;5;5;42.53, 140.83
+1693-01-09;Italy;Etna;Italy;non;oui;3350;Stratovolcano;Historical;;;;37.734, 15.004
+1755-10-17;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;2;2;63.63, -19.05
+1843-08-01;Indonesia;Lamongan;Java;non;non;1651;Stratovolcano;Historical;2;4;4;-8.0, 113.342
+1913-12-06;Vanuatu;Ambrym;Vanuatu-SW Pacific;non;non;1334;Pyroclastic shield;Historical;3;21;21;-16.25, 168.12
+1957-10-01;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;12;12;32.88, 131.1
+2013-09-04;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;;;;31.58, 130.67
+2015-05-07;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;;;;2.78, 125.48
+1311-01-18;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;;;63.63, -19.05
+1716-07-20;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;2;;;-7.93, 112.308
+1729-02-01;Iceland;Bardarbunga;Iceland-NE;non;non;2000;Stratovolcano;Historical;1;;;64.63, -17.53
+1742-12-09;Ecuador;Cotopaxi;Ecuador;non;non;5911;Stratovolcano;Historical;3;;;-0.677, -78.436
+1939-10-13;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;1;10;10;-7.2, 109.92
+1952-01-01;Philippines;Ambalatungan Group;Luzon-Philippines;non;non;2329;Compound volcano;Fumarolic;1;12;12;17.32, 121.1
+1984-08-15;Cameroon;Oku Volc Field;Africa-W;non;non;3011;Maar;Radiocarbon;;37;37;6.25, 10.5
+1993-04-19;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;1;1;19.425, -155.292
+2010-08-30;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;2;2;3.17, 98.392
+1947-07-06;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;11;11;36.4, 138.53
+1979-09-06;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;3;3;32.88, 131.1
+1989-08-26;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;;2;2;31.93, 130.87
+2001-05-14;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;3;1;1;37.734, 15.004
+1375-01-01;Mexico;Chichon, El;Mexico;non;non;1150;Tuff cone;Historical;5;;;17.36, -93.228
+1698-01-01;Ecuador;Cotopaxi;Ecuador;non;non;5911;Stratovolcano;Historical;3;;;-0.677, -78.436
+1775-01-01;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;3;1300;1300;0.8, 127.325
+1822-10-08;Indonesia;Galunggung;Java;non;non;2168;Stratovolcano;Historical;5;4011;4011;-7.25, 108.05
+1874-07-03;Japan;Miyake-jima;Izu Is-Japan;non;non;815;Stratovolcano;Historical;3;1;1;34.08, 139.53
+1911-11-08;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;;;-8.108, 112.92
+1928-05-13;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;2;40;40;-7.2, 109.92
+1933-12-25;Philippines;Bulusan;Luzon-Philippines;oui;non;1565;Stratovolcano;Historical;2;;9;12.77, 124.05
+1966-04-26;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;4;215;215;-7.93, 112.308
+1966-08-14;Tanzania;Lengai, Ol Doinyo;Africa-E;non;non;2890;Stratovolcano;Historical;4;;;-2.751, 35.902
+1969-08-26;Japan;Narugo;Honshu-Japan;non;non;462;Caldera;Historical;;1;1;38.73, 140.73
+1981-03-17;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;;;37.734, 15.004
+1993-01-14;Colombia;Galeras;Colombia;non;non;4276;Complex volcano;Historical;2;9;9;1.22, -77.37
+2002-08-28;Italy;Etna;Italy;non;oui;3350;Stratovolcano;Historical;3;;;37.734, 15.004
+2013-12-13;New Zealand;Okataina;New Zealand;non;non;1111;Lava dome;Historical;;1;1;-38.12, 176.5
+2014-12-18;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;;1;1;0.8, 127.325
+2018-01-13;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;;;;13.257, 123.685
+1262-01-01;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;3;;;63.63, -19.05
+1300-07-11;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;;600;63.98, -19.7
+1907-10-06;Samoa;Savai'i;Samoa-SW Pacific;oui;non;1858;Shield volcano;Historical;;;;-13.612, -172.525
+1913-01-20;Mexico;Colima;Mexico;non;non;3850;Stratovolcano;Historical;4;13;13;19.514, -103.62
+1960-05-25;Chile;Puyehue;Chile-C;oui;oui;2236;Stratovolcano;Holocene;3;;;-40.59, -72.117
+1971-10-26;Spain;La Palma;Canary Is;non;non;2426;Stratovolcano;Historical;2;;;28.58, -17.83
+2007-07-07;Indonesia;Salak;Java;non;non;2211;Stratovolcano;Historical;;6;6;-6.72, 106.73
+2017-06-06;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;2;;;14.473, -90.88
+2017-09-23;Vanuatu;Aoba;Vanuatu-SW Pacific;non;non;1496;Shield volcano;Historical;;;;-15.4, 167.83
+2019-08-28;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;2;;;38.789, 15.213
+1672-04-24;Portugal;Fayal;Azores;non;non;1043;Stratovolcano;Historical;2;3;3;38.6, -28.73
+1780-10-31;Japan;Sakura-jima;Kyushu-Japan;oui;non;1117;Stratovolcano;Historical;;;;31.58, 130.67
+1894-10-01;Vanuatu;Ambrym;Vanuatu-SW Pacific;non;non;1334;Pyroclastic shield;Historical;3;10;10;-16.25, 168.12
+1910-07-25;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;2;1;1;42.53, 140.83
+1929-06-17;Japan;Komaga-take;Hokkaido-Japan;non;non;1140;Stratovolcano;Historical;4;2;2;42.07, 140.68
+1951-08-31;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;7;7;-7.93, 112.308
+1978-07-29;Philippines;Bulusan;Luzon-Philippines;non;non;1565;Stratovolcano;Historical;2;;;12.77, 124.05
+2001-07-26;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;;;37.734, 15.004
+2018-02-01;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;1;1;1;19.425, -155.292
+1853-07-13;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;34;34;13.257, 123.685
+1878-01-10;Vanuatu;Yasur;Vanuatu-SW Pacific;oui;non;361;Stratovolcano;Historical;3;;;-19.52, 169.425
+1905-08-04;Samoa;Savai'i;Samoa-SW Pacific;oui;non;1858;Shield volcano;Historical;2;;;-13.612, -172.525
+1944-08-20;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;2;;;38.789, 15.213
+1975-06-17;Costa Rica;Arenal;Costa Rica;non;non;1657;Stratovolcano;Historical;3;2;2;10.463, -84.703
+1980-08-17;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;3;;;63.98, -19.7
+1981-09-05;Indonesia;Paluweh;Lesser Sunda Is;non;non;875;Stratovolcano;Historical;2;;;-8.32, 121.708
+1988-01-01;Japan;Akita-Yake-yama;Honshu-Japan;non;non;1366;Complex volcano;Historical;;3;3;39.97, 140.77
+2002-12-30;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;;;;38.789, 15.213
+2003-07-12;Montserrat;Soufriere Hills;W Indies;oui;non;915;Stratovolcano;Historical;3;;;16.72, -62.18
+2010-01-01;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;;;-1.467, -78.442
+2018-06-03;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;2;201;201;14.473, -90.88
+1760-01-01;Indonesia;Makian;Halmahera-Indonesia;non;non;1357;Stratovolcano;Historical;4;2000;2000;0.32, 127.4
+1813-05-01;Italy;Vesuvius;Italy;oui;non;1281;Complex volcano;Historical;2;;;40.821, 14.426
+1977-08-07;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;3;3;3;42.53, 140.83
+1985-11-13;Colombia;Ruiz;Colombia;non;non;5321;Stratovolcano;Historical;3;23080;23080;4.895, -75.322
+1990-02-02;Russia;Shiveluch;Kamchatka;non;non;3283;Stratovolcano;Historical;3;;;56.653, 161.36
+1853-06-24;Tonga;Niuafo'ou;Tonga-SW Pacific;non;non;260;Shield volcano;Historical;0;25;25;-15.6, -175.63
+1892-05-21;Indonesia;Sorikmarapi;Sumatra;non;non;2145;Stratovolcano;Historical;2;180;180;0.686, 99.539
+1917-04-01;Chile;Calbuco;Chile-S;non;non;2003;Stratovolcano;Historical;3;;;-41.326, -72.614
+1938-07-16;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;1;;;36.4, 138.53
+1943-02-20;Mexico;Michoacan-Guanajuato;Mexico;non;non;3860;Cinder cone;Historical;4;3;103;19.48, -102.25
+1973-04-05;Chile;Hudson, Cerro;Chile-S;non;non;1905;Stratovolcano;Historical;;2;2;-45.9, -72.97
+1990-04-18;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;1;1;32.88, 131.1
+1995-04-02;Cape Verde;Fogo;Cape Verde Is;non;non;2829;Stratovolcano;Historical;2;;;14.95, -24.35
+2017-09-12;Italy;Campi Flegrei;Italy;non;non;458;Caldera;Historical;;3;3;40.827, 14.139
+1600-02-19;Peru;Huaynaputina;Peru;non;oui;4850;Stratovolcano;Historical;6;1500;1500;-16.608, -70.85
+1629-01-01;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;2;4;4;64.42, -17.33
+1789-01-01;Japan;Oshima;Izu Is-Japan;non;non;758;Stratovolcano;Historical;2;;;34.73, 139.38
+1837-09-01;Indonesia;Peuet Sague;Sumatra;oui;oui;2801;Complex volcano;Historical;;;;4.914, 96.329
+1854-02-01;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;3;3;32.88, 131.1
+1871-04-30;Philippines;Camiguin;Mindanao-Philippines;oui;oui;1332;Stratovolcano;Historical;2;;;9.203, 124.673
+1875-03-29;Iceland;Askja;Iceland-NE;non;non;1516;Stratovolcano;Historical;5;;;65.03, -16.75
+1886-06-10;New Zealand;Okataina;New Zealand;non;non;1111;Lava dome;Historical;2;153;153;-38.12, 176.5
+1993-06-26;Philippines;Pinatubo;Luzon-Philippines;non;non;1486;Stratovolcano;Historical;1;4;4;15.13, 120.35
+1996-08-10;Philippines;Kanlaon;Philippines-C;non;non;2435;Stratovolcano;Historical;2;3;3;10.412, 123.132
+1638-01-01;Indonesia;Raung;Java;non;non;3332;Stratovolcano;Historical;4;1001;1001;-8.125, 114.042
+1684-12-01;Iceland;Grimsvotn;Iceland-NE;non;non;1725;Caldera;Historical;2;1;1;64.42, -17.33
+1694-11-20;Pacific Ocean;Banda Api;Banda Sea;non;non;640;Caldera;Historical;3;;;-4.525, 129.871
+1794-06-15;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;3;400;400;40.821, 14.426
+1875-01-01;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;;1500;1500;13.257, 123.685
+1889-09-06;Indonesia;Banua Wuhu;Sangihe Is-Indonesia;oui;oui;-5;Submarine volcano;Historical;2;;;3.138, 125.491
+1971-09-06;Solomon Is.;Tinakula;Santa Cruz Is-SW Pac;oui;non;851;Stratovolcano;Historical;2;;;-10.38, 165.8
+1976-09-15;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;2;1;1;2.78, 125.48
+1992-01-21;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;2;2;2;2.78, 125.48
+2002-01-03;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;3;;;2.78, 125.48
+2013-09-15;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;2;;;3.17, 98.392
+2019-06-26;Papua New Guinea;Ulawun;New Britain-SW Pac;non;non;2334;Stratovolcano;Historical;;;;-5.05, 151.33
+1565-08-01;Guatemala;Pacaya;Guatemala;non;oui;2552;Complex volcano;Historical;3;;;14.381, -90.601
+1762-01-01;Russia;Kliuchevskoi;Kamchatka;non;non;4835;Stratovolcano;Historical;2;;;56.057, 160.638
+1921-11-26;Japan;Nasu;Honshu-Japan;non;non;1917;Stratovolcano;Historical;;1;1;37.12, 139.97
+1941-09-21;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;;;-8.108, 112.92
+1976-08-03;Japan;Kusatsu-Shirane;Honshu-Japan;non;non;2176;Stratovolcano;Historical;;3;3;36.62, 138.55
+1979-07-05;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;9;9;37.734, 15.004
+1631-02-14;Ethiopia;Dama Ali;Africa-NE;non;oui;1068;Shield volcano;Historical;;50;50;11.28, 41.63
+1872-04-17;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;4;170;170;-7.542, 110.442
+1878-02-11;Vanuatu;Yasur;Vanuatu-SW Pacific;oui;oui;361;Stratovolcano;Historical;;;;-19.52, 169.425
+1909-04-28;Cameroon;Cameroon, Mt.;Africa-W;non;oui;4095;Stratovolcano;Historical;2;;;4.203, 9.17
+1914-01-18;Papua New Guinea;Pago;New Britain-SW Pac;non;non;742;Caldera;Historical;3;;;-5.58, 150.52
+1930-03-17;Indonesia;Krakatau;Indonesia;oui;non;813;Caldera;Historical;2;;;-6.102, 105.423
+1930-09-11;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;3;5;6;38.789, 15.213
+1954-02-01;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;;;;38.789, 15.213
+1990-02-10;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;4;32;32;-7.93, 112.308
+1993-06-23;Japan;Unzen;Kyushu-Japan;non;non;1500;Complex volcano;Historical;1;1;1;32.75, 130.3
+2010-08-06;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;3;4;4;2.78, 125.48
+2014-11-10;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;;;19.425, -155.292
+1389-12-01;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;3;;;63.98, -19.7
+1590-01-15;Mexico;Colima;Mexico;non;non;3850;Stratovolcano;Historical;3;;;19.514, -103.62
+1606-01-23;Japan;Hachijo-jima;Izu Is-Japan;oui;non;854;Stratovolcano;Historical;2;;;33.13, 139.77
+1712-01-15;Iceland;Bardarbunga;Iceland-NE;non;non;2000;Stratovolcano;Historical;2;;;64.63, -17.53
+1783-08-05;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;4;1491;1491;36.4, 138.53
+1822-12-27;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;100;100;-7.542, 110.442
+1845-02-08;Indonesia;Soputan;Sulawesi-Indonesia;oui;oui;1784;Stratovolcano;Historical;2;;118;1.108, 124.725
+1847-04-09;Cape Verde;Fogo;Cape Verde Is;non;non;2829;Stratovolcano;Historical;2;;;14.95, -24.35
+1951-11-05;Japan;Hakone;Honshu-Japan;non;non;1438;Complex volcano;Radiocarbon;;2;2;35.22, 139.02
+1958-07-21;Japan;Daisetsu;Hokkaido-Japan;non;non;2290;Stratovolcano;Tephrochronology;;2;2;43.68, 142.88
+1969-01-07;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;3;3;-7.542, 110.442
+1983-07-23;Indonesia;Colo [Una Una];Sulawesi-Indonesia;non;non;507;Stratovolcano;Historical;4;;;-0.17, 121.608
+1994-11-03;Indonesia;Rinjani;Lesser Sunda Is;non;non;3726;Stratovolcano;Historical;3;31;31;-8.42, 116.47
+1999-10-05;Ecuador;Guagua Pichincha;Ecuador;non;non;4784;Stratovolcano;Historical;3;2;2;-0.171, -78.598
+2002-01-17;Congo, DRC;Nyiragongo;Africa-C;non;non;3470;Stratovolcano;Historical;1;100;100;-1.52, 29.25
+2011-03-18;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;;;;2.78, 125.48
+2012-02-10;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;;;19.425, -155.292
+2012-03-02;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;;;19.425, -155.292
+1334-01-01;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;;;-7.93, 112.308
+1873-01-01;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;;9;9;40.821, 14.426
+1895-06-17;Papua New Guinea;Karkar;New Guinea-NE of;non;non;1839;Stratovolcano;Historical;2;1;21;-4.649, 145.964
+1902-05-20;Martinique;Pelee;W Indies;oui;non;1397;Stratovolcano;Historical;;;;14.82, -61.17
+1904-02-25;Comoros;Karthala;Indian O-W;non;non;2361;Shield volcano;Historical;2;1;1;-11.75, 43.38
+1928-11-02;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;1;5;5;37.734, 15.004
+1929-01-06;Chile;Calbuco;Chile-S;non;non;2003;Stratovolcano;Historical;3;;;-41.326, -72.614
+1930-12-18;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;1369;1369;-7.542, 110.442
+1950-08-28;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;1;6;6;-8.108, 112.92
+1972-06-09;Reunion;Fournaise, Piton de la;Indian O-W;non;non;2631;Shield volcano;Historical;2;3;3;-21.229, 55.713
+1996-09-27;Nicaragua;Maderas;Nicaragua;non;non;1394;Stratovolcano;Holocene;;6;6;11.446, -85.515
+2002-11-03;Ecuador;Reventador;Ecuador;non;non;3562;Stratovolcano;Historical;4;;;-0.078, -77.656
+2016-10-08;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;;;;32.88, 131.1
+1873-01-16;Philippines;Ragang;Mindanao-Philippines;non;non;2815;Stratovolcano;Historical;2;;;7.67, 124.5
+1919-05-19;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;4;5110;5110;-7.93, 112.308
+1920-10-29;El Salvador;Izalco;El Salvador;non;non;1950;Stratovolcano;Historical;3;;;13.813, -89.633
+1938-05-09;Japan;Bandai;Honshu-Japan;non;non;1819;Stratovolcano;Historical;;2;2;37.6, 140.08
+1985-05-10;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;70;70;-8.108, 112.92
+1992-07-05;Indonesia;Marapi;Sumatra;non;non;2891;Complex volcano;Historical;2;1;1;-0.381, 100.473
+2004-10-24;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;4;5;5;-4.1, 145.061
+2010-05-29;United States;Sarigan;Mariana Is-C Pacific;oui;oui;538;Stratovolcano;Holocene;;;;16.708, 145.78
+2018-12-26;Italy;Etna;Italy;non;oui;3350;Stratovolcano;Historical;2;;;37.734, 15.004
+2020-01-12;Philippines;Taal;Luzon-Philippines;non;non;400;Stratovolcano;Historical;;;;14.002, 120.993
+1823-02-01;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;0;;;19.425, -155.292
+1832-12-25;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;32;32;-7.542, 110.442
+1838-02-26;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;2;4;4;0.8, 127.325
+1858-01-01;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;2;;;13.257, 123.685
+1872-12-01;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;3;4;4;32.88, 131.1
+1879-02-04;Italy;Stromboli;Italy;oui;non;926;Stratovolcano;Historical;2;;;38.789, 15.213
+1989-02-12;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;;1;1;32.88, 131.1
+1992-03-18;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;;1;1;-7.2, 109.92
+1993-02-02;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;2;75;75;13.257, 123.685
+1995-05-15;Indonesia;Kelimutu;Lesser Sunda Is;non;non;1640;Complex volcano;Historical;;1;1;-8.758, 121.83
+1800-01-01;United States;St. Helens;US-Washington;non;non;2549;Stratovolcano;Historical;5;;;46.2, -122.18
+1827-06-27;Russia;Avachinsky;Kamchatka;oui;oui;2741;Stratovolcano;Historical;2;;;53.255, 158.83
+1995-04-07;Guatemala;Pacaya;Guatemala;non;non;2552;Complex volcano;Historical;3;1;1;14.381, -90.601
+1999-05-21;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;2;;;14.473, -90.88
+2017-12-27;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;;;3.17, 98.392
+1362-06-05;Iceland;Oraefajokull;Iceland-SE;non;non;2119;Stratovolcano;Historical;5;220;220;64.0, -16.65
+1670-01-01;Vanuatu;Aoba;Vanuatu-SW Pacific;non;non;1496;Shield volcano;Historical;2;;;-15.4, 167.83
+1780-07-27;Japan;Aoga-shima;Izu Is-Japan;non;non;423;Stratovolcano;Historical;3;7;7;32.45, 139.77
+1926-05-24;Japan;Tokachi;Hokkaido-Japan;non;non;2077;Stratovolcano;Historical;3;144;144;43.42, 142.68
+1977-01-10;Congo, DRC;Nyiragongo;Africa-C;non;non;3470;Stratovolcano;Historical;1;;;-1.52, 29.25
+1991-06-03;Japan;Unzen;Kyushu-Japan;non;non;1500;Complex volcano;Historical;1;43;43;32.75, 130.3
+2014-02-01;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;17;17;3.17, 98.392
+1866-02-20;Greece;Santorini;Greece;non;non;329;Shield volcano;Historical;2;1;1;36.404, 25.396
+1886-08-31;Tonga;Niuafo'ou;Tonga-SW Pacific;non;non;260;Shield volcano;Historical;4;;;-15.6, -175.63
+1914-01-01;Vanuatu;Aoba;Vanuatu-SW Pacific;non;non;1496;Shield volcano;Historical;;100;100;-15.4, 167.83
+1974-02-11;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;3;4;4;2.78, 125.48
+1992-01-01;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;3;3;-8.108, 112.92
+1636-05-15;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;3;;;63.98, -19.7
+1871-08-07;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;2;1;1;0.8, 127.325
+1872-01-01;Russia;Sinarka;Kuril Is;non;non;934;Stratovolcano;Historical;4;;;48.875, 154.175
+1899-11-13;Colombia;Dona Juana;Colombia;non;non;4150;Stratovolcano;Historical;4;55;55;1.47, -76.92
+1905-03-10;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;2;1;1;40.821, 14.426
+1931-08-20;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;3;3;3;36.4, 138.53
+1963-09-05;Indonesia;Batur;Lesser Sunda Is;non;non;1717;Caldera;Historical;2;2;2;-8.242, 115.375
+1994-06-06;Colombia;Huila;Colombia;non;oui;5365;Stratovolcano;Historical;;;650;2.92, -76.05
+1999-10-16;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;1;1;-1.467, -78.442
+1341-05-19;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;3;;;63.98, -19.7
+1430-01-01;Vanuatu;Kuwae;Vanuatu-SW Pacific;non;non;-2;Caldera;Historical;;;;-16.829, 168.536
+1510-07-25;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;1;1;63.98, -19.7
+1717-08-27;Guatemala;Fuego;Guatemala;non;non;3763;Stratovolcano;Historical;3;;;14.473, -90.88
+1845-02-19;Colombia;Ruiz;Colombia;non;non;5321;Stratovolcano;Historical;3;1000;1000;4.895, -75.322
+1928-03-28;Indonesia;Krakatau;Indonesia;oui;non;813;Caldera;Historical;;;;-6.102, 105.423
+1940-07-24;Tanzania;Lengai, Ol Doinyo;Africa-E;non;non;2890;Stratovolcano;Historical;2;;;-2.751, 35.902
+1969-03-21;Philippines;Didicas;Luzon-N of;oui;non;244;Compound volcano;Historical;2;;3;19.077, 122.202
+1673-05-20;Indonesia;Gamkonora;Halmahera-Indonesia;oui;non;1635;Stratovolcano;Historical;5;;;1.375, 127.52
+1792-05-21;Japan;Unzen;Kyushu-Japan;oui;oui;1500;Complex volcano;Historical;2;;15000;32.75, 130.3
+1818-02-05;Mexico;Colima;Mexico;non;non;3850;Stratovolcano;Historical;4;;;19.514, -103.62
+1863-08-17;Vanuatu;Yasur;Vanuatu-SW Pacific;oui;oui;361;Stratovolcano;Historical;;;;-19.52, 169.425
+1884-02-01;Indonesia;Krakatau;Indonesia;oui;non;813;Caldera;Historical;;;;-6.102, 105.423
+1888-03-13;Papua New Guinea;Ritter Island;New Guinea-NE of;oui;non;140;Stratovolcano;Historical;3;;;-5.52, 148.121
+1888-07-15;Japan;Bandai;Honshu-Japan;non;non;1819;Stratovolcano;Historical;4;461;461;37.6, 140.08
+1979-02-20;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;1;149;149;-7.2, 109.92
+2006-06-07;Philippines;Bulusan;Luzon-Philippines;non;non;1565;Stratovolcano;Historical;2;1;1;12.77, 124.05
+1104-10-15;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;5;;;63.98, -19.7
+1329-06-28;Italy;Etna;Italy;oui;oui;3350;Stratovolcano;Historical;3;;;37.734, 15.004
+1485-01-01;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;1;1;32.88, 131.1
+1598-05-13;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;800;800;36.4, 138.53
+1840-01-01;Solomon Is.;Savo;Solomon Is-SW Pacifi;non;non;510;Stratovolcano;Historical;3;;;-9.13, 159.82
+1883-03-01;Comoros;Karthala;Indian O-W;non;non;2361;Shield volcano;Historical;2;;;-11.75, 43.38
+1890-06-29;Indonesia;Makian;Halmahera-Indonesia;non;non;1357;Stratovolcano;Historical;2;;;0.32, 127.4
+1902-08-30;Martinique;Pelee;W Indies;oui;non;1397;Stratovolcano;Historical;4;1500;1500;14.82, -61.17
+1970-03-02;Italy;Campi Flegrei;Italy;non;non;458;Caldera;Historical;;3;3;40.827, 14.139
+1981-05-14;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;372;372;-8.108, 112.92
+1990-11-21;Congo, DRC;Nyiragongo;Africa-C;non;non;3470;Stratovolcano;Historical;;1;1;-1.52, 29.25
+1999-01-20;Montserrat;Soufriere Hills;W Indies;oui;non;915;Stratovolcano;Historical;3;;;16.72, -62.18
+1812-04-27;St. Vincent & the Grenadines;Soufriere St. Vincent;W Indies;non;non;1220;Stratovolcano;Historical;4;56;56;13.33, -61.18
+1827-08-09;Russia;Avachinsky;Kamchatka;non;non;2741;Stratovolcano;Historical;2;;;53.255, 158.83
+1846-05-27;Indonesia;Tangkubanparahu;Java;non;non;2084;Stratovolcano;Historical;2;;;-6.77, 107.6
+1856-09-25;Japan;Komaga-take;Hokkaido-Japan;non;non;1140;Stratovolcano;Historical;4;20;20;42.07, 140.68
+1883-10-06;United States;Augustine;Alaska-SW;oui;non;1252;Lava dome;Historical;4;8;8;59.37, -153.42
+1953-03-25;Japan;Myojun Knoll;Izu Is-Japan;oui;non;360;Submarine volcano;Holocene;2;;;32.1, 139.85
+1968-07-29;Costa Rica;Arenal;Costa Rica;non;non;1657;Stratovolcano;Historical;3;80;80;10.463, -84.703
+1981-04-27;Russia;Alaid;Kuril Is;non;non;2339;Stratovolcano;Historical;2;;;50.858, 155.55
+1990-11-25;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;;4;4;-7.93, 112.308
+1820-03-01;United States;Westdahl;Aleutian Is;oui;oui;1654;Stratovolcano;Historical;2;;;54.52, -164.65
+1845-09-02;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;;;63.98, -19.7
+1953-04-27;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;6;6;32.88, 131.1
+1986-10-15;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;1;1;-7.542, 110.442
+1990-06-24;Papua New Guinea;Rabaul;New Britain-SW Pac;non;non;688;Pyroclastic shield;Historical;;6;6;-4.271, 152.203
+1993-10-04;Philippines;Pinatubo;Luzon-Philippines;non;non;1486;Stratovolcano;Historical;;14;14;15.13, 120.35
+2009-03-23;United States;Redoubt;Alaska-SW;non;non;3108;Stratovolcano;Historical;;;;60.48, -152.75
+1169-02-04;Italy;Etna;Italy;oui;oui;3350;Stratovolcano;Historical;;;16000;37.734, 15.004
+1660-11-03;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;;;63.63, -19.05
+1679-09-21;Yemen;Zukur;Red Sea;non;oui;624;Shield volcano;Holocene;;;;14.02, 42.75
+1741-08-23;Japan;Oshima-Oshima;Hokkaido-Japan;oui;non;737;Stratovolcano;Historical;4;;2000;41.5, 139.37
+1817-01-01;Indonesia;Raung;Java;non;non;3332;Stratovolcano;Historical;4;;;-8.125, 114.042
+1899-01-01;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;2;2;2;-4.1, 145.061
+1900-02-16;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;2;2;2;31.93, 130.87
+1946-01-01;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;2;1;1;31.58, 130.67
+2005-01-27;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;4;1;1;-4.1, 145.061
+2006-03-17;New Zealand;Raoul Island;Kermadec Is;non;non;516;Stratovolcano;Historical;;1;1;-29.27, -177.92
+2014-11-23;Cape Verde;Fogo;Cape Verde Is;non;non;2829;Stratovolcano;Historical;;;;14.95, -24.35
+1000-01-01;North Korea;Changbaishan;China-E;non;non;2744;Stratovolcano;Historical;7;;;41.98, 128.08
+1727-08-03;Iceland;Oraefajokull;Iceland-SE;non;non;2119;Stratovolcano;Historical;4;3;3;64.0, -16.65
+1868-04-03;United States;Mauna Loa;Hawaiian Is;oui;oui;4170;Shield volcano;Historical;2;;77;19.475, -155.608
+1869-07-07;Indonesia;Lewotobi;Lesser Sunda Is;non;non;1703;Stratovolcano;Historical;2;2;2;-8.53, 122.775
+1900-01-01;Ethiopia;Tullu Moje;Africa-NE;non;non;2349;Pumice cone;Anthropology;;;;8.158, 39.13
+1902-12-01;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;16;16;-7.542, 110.442
+1907-09-28;Indonesia;Lewotobi;Lesser Sunda Is;non;non;1703;Stratovolcano;Historical;2;1;1;-8.53, 122.775
+1938-06-05;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;2;;;13.257, 123.685
+1961-04-23;Japan;Tate-yama;Honshu-Japan;non;non;2621;Stratovolcano;Historical;;1;1;36.57, 137.6
+1995-09-06;Philippines;Parker;Mindanao-Philippines;non;non;1824;Stratovolcano;Historical;;60;60;6.12, 124.892
+2010-05-27;Guatemala;Pacaya;Guatemala;non;non;2552;Complex volcano;Historical;1;1;1;14.381, -90.601
+2013-02-12;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;;1;1;-7.542, 110.442
+1949-05-26;Colombia;Purace;Colombia;non;non;4650;Stratovolcano;Historical;2;17;17;2.32, -76.4
+1992-04-10;Nicaragua;Negro, Cerro;Nicaragua;non;non;728;Cinder cone;Historical;3;11;11;12.506, -86.702
+1997-09-15;Japan;Adatara;Honshu-Japan;non;non;1718;Stratovolcano;Historical;;4;4;37.62, 140.28
+1997-11-23;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;;2;2;32.88, 131.1
+1772-05-09;Indonesia;Gamalama;Halmahera-Indonesia;oui;non;1715;Stratovolcano;Historical;3;35;35;0.8, 127.325
+1840-07-02;Turkey;Ararat;Turkey;non;non;5165;Stratovolcano;Holocene;3;1900;1900;39.7, 44.28
+1871-12-08;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;3;3;13.257, 123.685
+1883-08-27;Indonesia;Krakatau;Indonesia;oui;non;813;Caldera;Historical;6;2000;36417;-6.102, 105.423
+1885-04-18;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;74;74;-8.108, 112.92
+1919-09-29;United States;Mauna Loa;Hawaiian Is;oui;non;4170;Shield volcano;Historical;0;;;19.475, -155.608
+1978-09-19;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;12;12;-8.108, 112.92
+1987-12-01;Indonesia;Sirung;Lesser Sunda Is;non;oui;862;Complex volcano;Historical;;;125;-8.51, 124.148
+2006-07-18;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;1;1;-1.467, -78.442
+1536-03-23;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;3;1;1;37.734, 15.004
+1690-02-03;Italy;Vesuvius;Italy;oui;non;1281;Complex volcano;Historical;;;;40.821, 14.426
+1726-02-01;Iceland;Bardarbunga;Iceland-NE;non;non;2000;Stratovolcano;Historical;1;;;64.63, -17.53
+1742-06-15;Ecuador;Cotopaxi;Ecuador;non;non;5911;Stratovolcano;Historical;3;;;-0.677, -78.436
+1897-05-23;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;3;350;350;13.257, 123.685
+1919-02-19;Mexico;Popocatepetl;Mexico;non;non;5426;Stratovolcano;Historical;1;;;19.023, -98.622
+1919-04-03;Indonesia;Banua Wuhu;Sangihe Is-Indonesia;oui;non;-5;Submarine volcano;Historical;;;;3.138, 125.491
+1929-08-02;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;2;2;37.734, 15.004
+1939-08-17;Japan;Tori-shima;Izu Is-Japan;non;non;403;Stratovolcano;Historical;2;2;2;30.48, 140.32
+1940-06-20;Indonesia;Karangetang [Api Siau];Sangihe Is-Indonesia;non;non;1784;Stratovolcano;Historical;2;1;1;2.78, 125.48
+1957-08-01;Japan;Oshima;Izu Is-Japan;non;non;758;Stratovolcano;Historical;2;1;1;34.73, 139.38
+1538-09-29;Italy;Campi Flegrei;Italy;non;non;458;Caldera;Historical;3;24;24;40.827, 14.139
+1800-10-30;Philippines;Mayon;Luzon-Philippines;non;non;2462;Stratovolcano;Historical;2;;;13.257, 123.685
+1822-03-09;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;4;50;50;42.53, 140.83
+1953-12-24;New Zealand;Ruapehu;New Zealand;non;non;2797;Stratovolcano;Historical;;151;151;-39.28, 175.57
+2008-11-20;Colombia;Huila;Colombia;non;non;5365;Stratovolcano;Historical;;10;10;2.92, -76.05
+2011-06-04;Chile;Puyehue;Chile-C;non;non;2236;Stratovolcano;Holocene;4;;;-40.59, -72.117
+1331-12-01;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;;;32.88, 131.1
+1714-06-30;Italy;Vesuvius;Italy;oui;non;1281;Complex volcano;Historical;;;;40.821, 14.426
+1952-09-16;Japan;Myojun Knoll;Izu Is-Japan;oui;non;360;Submarine volcano;Holocene;2;;;32.1, 139.85
+1979-04-13;St. Vincent & the Grenadines;Soufriere St. Vincent;W Indies;non;non;1220;Stratovolcano;Historical;3;2;2;13.33, -61.18
+1991-12-14;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;2;;;37.734, 15.004
+1994-02-03;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;3;6;6;-8.108, 112.92
+2018-03-30;Vanuatu;Aoba;Vanuatu-SW Pacific;non;non;1496;Shield volcano;Historical;3;4;4;-15.4, 167.83
+1410-03-05;Japan;Nasu;Honshu-Japan;non;non;1917;Stratovolcano;Historical;3;180;180;37.12, 139.97
+1803-11-07;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;;;36.4, 138.53
+1911-05-08;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;1;1;36.4, 138.53
+1917-06-07;El Salvador;San Salvador;El Salvador;non;oui;1893;Stratovolcano;Historical;3;325;325;13.736, -89.286
+1923-07-01;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;2;1;1;31.93, 130.87
+1929-11-02;Guatemala;Santa Maria;Guatemala;non;non;3772;Stratovolcano;Historical;3;200;200;14.756, -91.552
+1966-08-12;Indonesia;Awu;Sangihe Is-Indonesia;non;non;1320;Stratovolcano;Historical;4;39;39;3.67, 125.5
+1974-07-28;Japan;Niigata-Yake-yama;Honshu-Japan;non;non;2400;Lava dome;Historical;2;3;3;36.92, 138.03
+1977-04-05;Comoros;Karthala;Indian O-W;non;non;2361;Shield volcano;Historical;0;;;-11.75, 43.38
+1982-04-04;Mexico;Chichon, El;Mexico;non;non;1150;Tuff cone;Historical;5;33;33;17.36, -93.228
+1986-05-08;Japan;Akita-Yake-yama;Honshu-Japan;non;non;1366;Complex volcano;Historical;;1;1;39.97, 140.77
+1872-11-03;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;4;200;200;-7.542, 110.442
+1952-09-26;Japan;Myojun Knoll;Izu Is-Japan;oui;non;360;Submarine volcano;Holocene;2;;;32.1, 139.85
+1955-07-26;Chile;Carran-Los Venados;Chile-C;non;non;1114;Pyroclastic cone;Historical;4;2;2;-40.35, -72.07
+1961-05-08;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;3;6;6;-7.542, 110.442
+1991-07-03;Comoros;Karthala;Indian O-W;non;non;2361;Shield volcano;Historical;2;;;-11.75, 43.38
+1995-02-11;Japan;Yake-dake;Honshu-Japan;non;non;2455;Stratovolcano;Historical;1;4;4;36.22, 137.58
+1825-03-21;United States;Shishaldin;Aleutian Is;non;non;2857;Stratovolcano;Historical;3;;;54.75, -163.97
+1914-09-10;New Zealand;White Island;New Zealand;non;non;321;Stratovolcano;Historical;;11;11;-37.52, 177.18
+1952-09-24;Japan;Myojun Knoll;Izu Is-Japan;oui;non;360;Submarine volcano;Holocene;2;31;31;32.1, 139.85
+1953-06-01;Indonesia;Sirung;Lesser Sunda Is;non;non;862;Complex volcano;Historical;0;5;5;-8.51, 124.148
+1963-05-21;Chile;Villarrica;Chile-C;non;non;2847;Stratovolcano;Historical;2;;;-39.42, -71.93
+1976-11-25;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;2;29;29;-7.542, 110.442
+1990-07-19;Guatemala;Santa Maria;Guatemala;non;non;3772;Stratovolcano;Historical;3;4;4;14.756, -91.552
+2006-06-14;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;1;2;2;-7.542, 110.442
+2010-03-31;Iceland;Eyjafjallajokull;Iceland-S;non;non;1666;Stratovolcano;Historical;2;2;2;63.63, -19.62
+2010-11-01;Ecuador;Tungurahua;Ecuador;non;non;5023;Stratovolcano;Historical;3;;;-1.467, -78.442
+2015-02-20;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;;;3.17, 98.392
+1640-07-31;Japan;Komaga-take;Hokkaido-Japan;oui;oui;1140;Stratovolcano;Historical;5;;700;42.07, 140.68
+1785-04-18;Japan;Aoga-shima;Izu Is-Japan;non;non;423;Stratovolcano;Historical;3;135;135;32.45, 139.77
+1812-08-06;Indonesia;Awu;Sangihe Is-Indonesia;non;non;1320;Stratovolcano;Historical;3;953;953;3.67, 125.5
+1941-07-13;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;2;1;1;36.4, 138.53
+1944-12-04;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;2;117;117;-7.2, 109.92
+1953-10-05;Japan;Oshima;Izu Is-Japan;non;non;758;Stratovolcano;Historical;1;1;1;34.73, 139.38
+1991-06-15;Philippines;Pinatubo;Luzon-Philippines;non;oui;1486;Stratovolcano;Historical;6;350;800;15.13, 120.35
+1996-12-03;Papua New Guinea;Manam;New Guinea-NE of;non;non;1807;Stratovolcano;Historical;3;13;13;-4.1, 145.061
+2000-11-03;United States;Kilauea;Hawaiian Is;non;non;1222;Shield volcano;Historical;;2;2;19.425, -155.292
+2006-05-20;Montserrat;Soufriere Hills;W Indies;oui;non;915;Stratovolcano;Historical;2;;;16.72, -62.18
+2015-04-22;Chile;Calbuco;Chile-S;non;non;2003;Stratovolcano;Historical;;;;-41.326, -72.614
+2018-01-05;Papua New Guinea;Kadovar;New Guinea-NE of;non;non;365;Stratovolcano;Holocene;;;;-3.62, 144.62
+1778-01-01;Russia;Raikoke;Kuril Is;non;non;551;Stratovolcano;Historical;4;15;15;48.292, 153.25
+1805-08-11;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;2;4;4;40.821, 14.426
+1829-01-01;Indonesia;Guntur;Java;non;non;2249;Complex volcano;Historical;2;;;-7.13, 107.83
+1951-12-04;Philippines;Camiguin;Mindanao-Philippines;non;non;1332;Stratovolcano;Historical;3;500;500;9.203, 124.673
+1957-07-01;Japan;Unzen;Kyushu-Japan;non;non;1500;Complex volcano;Historical;;13;13;32.75, 130.3
+1993-01-21;Indonesia;Wurlali;Banda Sea;non;non;868;Stratovolcano;Historical;;1;1;-7.125, 128.675
+2017-03-15;Italy;Etna;Italy;non;non;3350;Stratovolcano;Historical;;;;37.734, 15.004
+2017-07-01;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;;8;8;-7.2, 109.92
+1177-01-01;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;3;;;63.63, -19.05
+1595-03-12;Colombia;Ruiz;Colombia;non;non;5321;Stratovolcano;Historical;4;636;636;4.895, -75.322
+1598-01-01;Pacific Ocean;Banda Api;Banda Sea;non;non;640;Caldera;Historical;3;;;-4.525, 129.871
+1659-09-30;El Salvador;San Salvador;El Salvador;non;oui;1893;Stratovolcano;Historical;3;;;13.736, -89.286
+1816-07-05;Japan;Aso;Kyushu-Japan;non;non;1592;Caldera;Historical;2;1;1;32.88, 131.1
+1846-11-18;Japan;E-san;Hokkaido-Japan;non;non;618;Stratovolcano;Historical;1;;;41.8, 141.17
+1912-09-06;United States;Novarupta;Alaska Peninsula;non;non;841;Caldera;Historical;6;2;2;58.27, -155.16
+1953-07-26;Japan;Hakone;Honshu-Japan;non;non;1438;Complex volcano;Radiocarbon;;10;10;35.22, 139.02
+1964-12-13;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;1;114;114;-7.2, 109.92
+1965-10-24;Netherlands;Kick-'em-Jenny;W Indies;oui;non;-177;Submarine volcano;Historical;0;;;12.3, -61.63
+1976-08-31;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;119;119;-8.108, 112.92
+1983-03-08;Russia;Kliuchevskoi;Kamchatka;non;non;4835;Stratovolcano;Historical;2;1;1;56.057, 160.638
+1716-11-09;Japan;Kirishima;Kyushu-Japan;non;non;1700;Shield volcano;Historical;3;1;1;31.93, 130.87
+1721-06-22;Japan;Asama;Honshu-Japan;non;non;2560;Complex volcano;Historical;1;15;15;36.4, 138.53
+1786-01-01;Indonesia;Dieng Volc Complex;Java;non;non;2565;Complex volcano;Historical;2;38;38;-7.2, 109.92
+1800-01-01;United States;Hualalai;Hawaiian Is;non;non;2523;Shield volcano;Historical;0;2;2;19.692, -155.87
+1839-02-12;Chile;Unnamed;Chile-Is;oui;non;-642;Submarine volcano;Uncertain;2;;;-33.62, -76.83
+1901-05-22;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;3;;;-7.93, 112.308
+1911-01-30;Philippines;Taal;Luzon-Philippines;oui;oui;400;Stratovolcano;Historical;3;1335;1335;14.002, 120.993
+1933-05-10;Japan;Hakone;Honshu-Japan;non;non;1438;Complex volcano;Radiocarbon;;1;1;35.22, 139.02
+1944-06-23;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;2;1;1;42.53, 140.83
+1947-11-02;Iceland;Hekla;Iceland-S;non;non;1491;Stratovolcano;Historical;4;1;1;63.98, -19.7
+1982-05-17;Indonesia;Galunggung;Java;non;non;2168;Stratovolcano;Historical;4;68;68;-7.25, 108.05
+2010-12-28;Indonesia;Tengger Caldera;Java;non;non;2329;Stratovolcano;Historical;;;;-7.942, 112.95
+1780-02-09;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;4;;;31.58, 130.67
+1835-11-01;Pacific Ocean;Banda Api;Banda Sea;non;oui;640;Caldera;Historical;;;;-4.525, 129.871
+1843-02-17;Guadeloupe;Soufriere Guadeloupe;W Indies;oui;non;1467;Stratovolcano;Historical;;;;16.05, -61.67
+1854-02-18;Russia;Shiveluch;Kamchatka;non;non;3283;Stratovolcano;Historical;5;;;56.653, 161.36
+1875-01-29;Indonesia;Kelut;Java;non;non;1731;Stratovolcano;Historical;0;;;-7.93, 112.308
+1946-11-13;Russia;Sarychev Peak;Kuril Is;oui;non;1496;Stratovolcano;Historical;4;;;48.092, 153.2
+1962-10-01;Indonesia;Merapi;Java;non;non;2947;Stratovolcano;Historical;;2;2;-7.542, 110.442
+2016-05-09;Indonesia;Sinabung;Sumatra;non;non;2460;Stratovolcano;Holocene;;1;1;3.17, 98.392
+1250-01-01;Ethiopia;Fentale;Africa-NE;non;non;2007;Stratovolcano;Historical;;;;8.975, 39.93
+1500-01-01;Iceland;Katla;Iceland-S;non;non;1512;Subglacial volcano;Historical;4;;;63.63, -19.05
+1737-05-20;Italy;Vesuvius;Italy;non;non;1281;Complex volcano;Historical;2;2;2;40.821, 14.426
+1779-11-08;Japan;Sakura-jima;Kyushu-Japan;non;non;1117;Stratovolcano;Historical;4;153;153;31.58, 130.67
+1856-03-02;Indonesia;Awu;Sangihe Is-Indonesia;oui;oui;1320;Stratovolcano;Historical;3;2806;2806;3.67, 125.5
+1954-08-03;Papua New Guinea;Bam;New Guinea-NE of;non;non;685;Stratovolcano;Historical;2;;25;-3.6, 144.85
+1962-12-31;Indonesia;Gamalama;Halmahera-Indonesia;non;non;1715;Stratovolcano;Historical;2;5;5;0.8, 127.325
+1973-01-01;Indonesia;Paluweh;Lesser Sunda Is;non;non;875;Stratovolcano;Historical;3;;;-8.32, 121.708
+1997-06-25;Montserrat;Soufriere Hills;W Indies;non;non;915;Stratovolcano;Historical;3;22;22;16.72, -62.18
+1564-12-31;Indonesia;Gamkonora;Halmahera-Indonesia;non;non;1635;Stratovolcano;Historical;3;;;1.375, 127.52
+1892-06-07;Indonesia;Awu;Sangihe Is-Indonesia;oui;non;1320;Stratovolcano;Historical;3;1532;1532;3.67, 125.5
+1895-05-22;Indonesia;Semeru;Java;non;non;3676;Stratovolcano;Historical;2;;;-8.108, 112.92
+1978-01-13;Japan;Usu;Hokkaido-Japan;non;non;731;Stratovolcano;Historical;3;3;3;42.53, 140.83
+1979-07-18;Indonesia;Iliwerung;Lesser Sunda Is;oui;non;1018;Complex volcano;Historical;;;1239;-8.54, 123.59
