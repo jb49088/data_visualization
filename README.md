@@ -1,7 +1,7 @@
 
 ### data_visualization
 
-This is a series of various data visualizations built with matplotlib
+This is a series of various data visualizations built with matplotlib, plotly, and requests.
 
 <!-- CODE_STATISTICS_START -->
 
@@ -14,9 +14,9 @@ Language                     files          blank        comment           code
 JSON                             1              0              0           6359
 CSV                              3              0              0           1517
 Python                          11            114             39            326
-Markdown                         1             43              4             77
+Markdown                         1             53              4             87
 -------------------------------------------------------------------------------
-SUM:                            16            157             43           8279
+SUM:                            16            167             43           8289
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
