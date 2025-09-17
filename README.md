@@ -48,8 +48,8 @@ data_visualization
     ├── data
     │   ├── death_valley_2021.csv
     │   └── sitka_2021.csv
-    ├── highs_lows.py
-    └── precipitation.py
+    ├── highs_lows_visual.py
+    └── precipitation_visual.py
 
 8 directories, 16 files
 ```
