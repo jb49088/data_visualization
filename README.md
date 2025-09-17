@@ -14,9 +14,9 @@ Language                     files          blank        comment           code
 JSON                             1              0              0           6359
 CSV                              3              0              0           1517
 Python                          11            114             39            326
-Markdown                         1             43              4             78
+Markdown                         1             43              4             77
 -------------------------------------------------------------------------------
-SUM:                            16            157             43           8280
+SUM:                            16            157             43           8279
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -38,8 +38,8 @@ data_visualization
 │   ├── data
 │   │   ├── earthquakes.geojson
 │   │   └── volcanos.csv
-│   ├── earthquake_map.py
-│   └── volcano_map.py
+│   ├── earthquake_visual.py
+│   └── volcano_visual.py
 ├── random_walk
 │   ├── random_walk.py
 │   └── rw_visual.py
