@@ -122,3 +122,23 @@ The chart above shows global earthquake activity from March 5, 2022, to April 4,
 <img width="1264" height="871" alt="newplot(1)" src="https://github.com/user-attachments/assets/5ee48ece-86bb-4e17-9628-6a3fc9d6a0aa" />
 
 The chart above shows significant volcanic eruptions worldwide from the year 1000 to 2020. Each eruption meets criteria such as causing fatalities, significant damage, or having a high Volcanic Explosivity Index (VEI). The visualization highlights the locations, types, and elevations of these volcanoes, providing a clear view of global volcanic activity over the last millennium. This visualization was generated with `volcano_map.py`.
+
+### github
+
+GitHub visualizations explore repository statistics like stars and forks using the GitHub REST API. They make it easy to compare the popularity and activity of different projects, either across all repositories or filtered by a specific programming language.
+
+<img width="1264" height="871" alt="newplot" src="https://github.com/user-attachments/assets/ae322ef4-f98d-4bdd-863e-1cdc15324449" />
+
+The chart above shows the most-starred repositories on GitHub, generated with `github_repos_visual.py`. Each bar represents a repository, with interactive hover text revealing details like the project owner and description.
+
+<img width="1264" height="871" alt="newplot(1)" src="https://github.com/user-attachments/assets/404f8c91-36fa-4425-93ad-b4f5e1fd77d7" />
+
+The chart above shows the most-starred C repositories on GitHub, generated with `github_repos_visual.py`. Each bar represents a repository, with interactive hover text revealing details like the project owner and description.
+
+<img width="1264" height="871" alt="newplot(2)" src="https://github.com/user-attachments/assets/b0abb47a-b9ef-4e35-a64f-40d573bfd173" />
+
+The chart above shows the most-forked repositories on GitHub, generated with `github_repos_visual.py`. Each bar represents a repository, with interactive hover text revealing details like the project owner and description.
+
+<img width="1264" height="871" alt="newplot(3)" src="https://github.com/user-attachments/assets/c70289de-0ece-4e5d-bdb5-a9e7e40a312c" />
+
+The chart above shows the most-forked Python repositories on GitHub, generated with `github_repos_visual.py`. Each bar represents a repository, with interactive hover text revealing details like the project owner and description.
