@@ -42,7 +42,7 @@ data_visualization
 │   └── volcano_visual.py
 ├── random_walk
 │   ├── random_walk.py
-│   └── rw_visual.py
+│   └── random_walk_visual.py
 ├── README.md
 └── weather
     ├── data
