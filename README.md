@@ -13,10 +13,10 @@ Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 JSON                             2              0              0           9858
 CSV                              3              0              0           1517
-Python                          11            108             47            309
-Markdown                         1             43              4             75
+Python                          11            114             39            326
+Markdown                         1             43              4             78
 -------------------------------------------------------------------------------
-SUM:                            17            151             51          11759
+SUM:                            17            157             43          11779
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -34,7 +34,7 @@ data_visualization
 │   └── die_visual.py
 ├── github
 │   ├── github_repos.json
-│   └── repos_with_most_stars.py
+│   └── github_repos_visual.py
 ├── natural_disasters
 │   ├── data
 │   │   ├── earthquakes.geojson
