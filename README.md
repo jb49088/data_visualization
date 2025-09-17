@@ -11,12 +11,12 @@ This is a series of various data visualizations built with matplotlib
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-JSON                             2              0              0           9858
+JSON                             1              0              0           6359
 CSV                              3              0              0           1517
 Python                          11            114             39            326
 Markdown                         1             43              4             78
 -------------------------------------------------------------------------------
-SUM:                            17            157             43          11779
+SUM:                            16            157             43           8280
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -33,7 +33,6 @@ data_visualization
 │   ├── die.py
 │   └── die_visual.py
 ├── github
-│   ├── github_repos.json
 │   └── github_repos_visual.py
 ├── natural_disasters
 │   ├── data
@@ -52,7 +51,7 @@ data_visualization
     ├── highs_lows.py
     └── precipitation.py
 
-8 directories, 17 files
+8 directories, 16 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
 
