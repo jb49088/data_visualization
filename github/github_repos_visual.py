@@ -2,16 +2,6 @@ import plotly.express as px
 import requests
 
 
-def main(sort_by, language=""):
-    response = _call_api(sort_by, language)
-    response_dict = response.json()
-    _log_api_info(response, response_dict)
-    repo_links, repo_names, sort_values, hover_texts = _extract_data(
-        sort_by, response_dict
-    )
-    _create_visual(language, repo_links, repo_names, sort_values, hover_texts, sort_by)
-
-
 def _call_api(sort_by, language):
     url = _construct_url(sort_by, language)
     headers = {"Accept": "application/vnd.github.v3+json"}
@@ -80,6 +70,8 @@ def _create_visual(
         x=repo_links, y=y_values, title=title, labels=labels, hover_name=hover_texts
     )
     fig.update_traces(
+        marker_color="SteelBlue",
+        marker_opacity=0.6,
         customdata=repo_names,
         hovertemplate=(
             "<b>%{hovertext}</b><br>"
@@ -93,9 +85,18 @@ def _create_visual(
         xaxis_title_font_size=20,
         yaxis_title_font_size=20,
     )
-    fig.update_traces(marker_color="SteelBlue", marker_opacity=0.6)
     fig.show()
 
 
+def main(sort_by, language=""):
+    response = _call_api(sort_by, language)
+    response_dict = response.json()
+    _log_api_info(response, response_dict)
+    repo_links, repo_names, sort_values, hover_texts = _extract_data(
+        sort_by, response_dict
+    )
+    _create_visual(language, repo_links, repo_names, sort_values, hover_texts, sort_by)
+
+
 if __name__ == "__main__":
-    main("forks", "python")
+    main("stars")

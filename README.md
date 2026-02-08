@@ -13,10 +13,11 @@ Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 JSON                             1              0              0           6359
 CSV                              3              0              0           1517
-Python                          11            114             39            326
+Python                          11            114             39            327
 Markdown                         1             53              4             87
+Text                             1              0              0             12
 -------------------------------------------------------------------------------
-SUM:                            16            167             43           8289
+SUM:                            17            167             43           8302
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -44,6 +45,7 @@ data_visualization
 │   ├── random_walk.py
 │   └── random_walk_visual.py
 ├── README.md
+├── requirements.txt
 └── weather
     ├── data
     │   ├── death_valley_2021.csv
@@ -51,7 +53,7 @@ data_visualization
     ├── highs_lows_visual.py
     └── precipitation_visual.py
 
-8 directories, 16 files
+8 directories, 17 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
 
